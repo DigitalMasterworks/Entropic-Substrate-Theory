@@ -29,6 +29,12 @@ All files are written in Lean 4 and use the `Physics` namespace throughout.
 - **QuasiStatic.lean**  
   Quasi-static (Poisson) model of the substrate: Laplacian operator, density, and field constraints at fixed time.
 
+- **Foundations.lean**  
+  Provides standard type abbreviations (e.g., `Complex'`, `Real'`, `Nat'`, `Value`, `Time'`) for unified notation throughout the project. No executable content.
+
+- **Prelude.lean**  
+  Project-wide utility and setup file. Imports core mathlib types and tactics, foundational abbreviations, and sets Lean options for convenience. Intended for consistent import at the top of all modules.
+
 ## Requirements
 
 - **Lean 4**
