@@ -1,5 +1,15 @@
 # Entropic Substrate Theory
 
+This repository brings together all components needed to rigorously define, simulate, and empirically test the hypothesis that cosmic structure and gravity emerge from an entropic substrate field. 
+
+The project integrates:
+- **Formalized Lean 4 proofs and definitions** of the substrate theory and its predictions,
+- **Python pipelines for large-scale data analysis** and comparison with observational void catalogs,
+- **Mathematical diagnostics and validation scripts** to ensure correctness and reproducibility.
+
+Our goal is to provide a fully open, transparent, and reproducible platform for substrate-based cosmology research, from first principles to data-driven results.
+
+
 This repository brings together three main components:
 
 ---
