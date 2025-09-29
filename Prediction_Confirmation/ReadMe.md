@@ -53,6 +53,14 @@ For each void catalog to be analyzed, ensure the following files are present in 
      python3 VoidDeepTests.py
      python3 VoidAnisoTest.py
      ```
+
+## Required Data
+
+The `nsa_v1_0_1.fits` catalog (~2.5GB) is required but **not included in this repository**.
+Download it from:
+https://www.sdss.org/dr17/data_access/value-added-catalogs/?vac_id=nasa-sloan-atlas
+Place it in the same directory as the analysis scripts.
+
 4. Output CSVs and summaries will be generated for each catalog and analysis.
 
 ---
