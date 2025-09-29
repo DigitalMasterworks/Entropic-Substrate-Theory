@@ -1,0 +1,14 @@
+Catalog: V2_REVOLVER-nsa_v1_0_1_WMAP5
+Voids: 518
+Processed galaxy lines: 194125
+Used (interior+shell): 38466
+Missing (nomap): 0
+Missing (no NSA pos): 0
+
+Occupancy & Inward Bias (empirical):
+  global f_boundary = 0.704310
+  global inward_bias_proxy (interior only) = 0.412165
+
+Null / Control (random zone→void remap):
+  null f_boundary = 0.716245
+  null inward_bias_proxy = 0.406165

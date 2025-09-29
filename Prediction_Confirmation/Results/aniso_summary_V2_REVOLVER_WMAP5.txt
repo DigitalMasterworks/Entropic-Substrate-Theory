@@ -1,0 +1,15 @@
+Catalog: V2_REVOLVER-nsa_v1_0_1_WMAP5
+Voids: 518
+Processed galaxy lines: 194125
+Used (shell): 27092
+Used (interior): 11374
+Missing (nomap): 0
+Missing (no NSA pos): 0
+
+Global anisotropy (cleaned; k=3 harmonic):
+  shell:   k3_amp = 0.009703  k3_power = 0.000094
+  interior: k3_amp = 0.018505  k3_power = 0.000342
+
+Null / Control (random zone→void remap):
+  shell(null):   k3_amp = 0.006221  k3_power = 0.000039
+  interior(null): k3_amp = 0.007812  k3_power = 0.000061
