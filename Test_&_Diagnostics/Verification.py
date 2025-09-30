@@ -1,5 +1,4 @@
-# passfail.py
-# Repro + PASS/FAIL against Luke's targets
+# Verification.py
 
 import numpy as np, math
 
