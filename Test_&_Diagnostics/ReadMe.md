@@ -50,6 +50,7 @@ Usage:
 - `csch-and-swapping.py` — Bell/CHSH simulation; standalone.
 - `delayed-choicd-mzi.py` — Delayed-choice Mach–Zehnder simulation; standalone.
 
+
 Usage:
 - These scripts can be run independently after confirming parameters as above.
 - If a script depends on output from another (e.g., `darkmatterproofgr.py` requires arrays from `darkmatterhalo.py`), run the required script first.
@@ -58,6 +59,8 @@ Usage:
 
 ## Recommended Order of Execution
 
+- `CSreduction.py` — Derives the invariant manifold S + C = 1, substitutes C = 1 − S, constructs the static isotropic metric ds² = S² c² dt² − S⁻² (dx² + dy² + dz²), auto-generates Christoffel symbols and the null-geodesic ODEs, integrates rays through S(x,y), and fits weak-field bending α(b) ≈ A/b; verifies GR with A ≈ 4GM/c² for S = exp(Φ/c²), and prints PPN expansion (β = 1, γ = 1 for the exponential map).
+- `timestepreduction.py` — Derives the emergent evolution law ∂t S = κ ∇·(S ∇S) and local clock Δt_eff ∝ S; shows Σ = S + C → 1 and evolution thereafter on Σ = 1; demonstrates boundedness 0 ≤ S ≤ 1, energy-like decay, and practical no-surgery stability; emits compact logs/plots for stability and convergence checks.
 1. `Autotuner.py`  (optional, only if re-tuning)
 2. `Simulator3.py`  (to confirm outputs with current constants)
 3. `Verification.py`  (to check PASS/FAIL)
