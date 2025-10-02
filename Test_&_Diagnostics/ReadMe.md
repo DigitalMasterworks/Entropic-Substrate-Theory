@@ -91,12 +91,6 @@ The following scripts are fully independent and can be run in any order. None of
 - **Quibits.py**
   - Analyzes simulated field histories for signatures of qubit, neutrino, quark, and Higgs candidates. Detects oscillatory modes and logs candidates to output files.
 
-- **Radius_Check.py**
-  - Simulates the collapse and horizon formation process in a 3D Ricci-flow substrate. Prints Schwarzschild radius comparisons, substrate horizon detection, and local speed of light at the horizon.
-
-- **Corridor.py**
-  - Runs a simplified 3D entropy-corridor simulation, with visual printing of the corridor structure and detection of breakdown ("surgery") events during collapse. Does not output file data.
-
 ---
 
 **Usage:**  
