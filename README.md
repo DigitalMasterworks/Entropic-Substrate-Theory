@@ -40,7 +40,7 @@ Contains diagnostic and test scripts for **verifying, cross-checking, and valida
 
 ## 4. `Turnkey_Replication/` — Automatically Recreate Results with RunAll.sh
 
-Contains all referenced python scripts in the scalar field paper, required bat files and an sh script that automatically downloads the nsa_v1_0_1.fits file and runs all tests, automatically saving logs, test artifacts and images.
+Contains all referenced python scripts in the scalar field paper, required bat files and an sh script that automatically downloads the nsa_v1_0_1.fits file and runs all tests, automatically saving logs, test artifacts and images. This should take between 15-30 minutes to complete.
 
 ---
 
