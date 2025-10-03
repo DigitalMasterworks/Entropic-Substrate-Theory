@@ -1,0 +1,39 @@
+{
+  "S_stats": {
+    "S_max": 0.999999999592888,
+    "S_mean": 0.9999999995928878,
+    "S_min": 0.999999999592888,
+    "S_std": 2.220446049250313e-16
+  },
+  "config": {
+    "S0": 1.0,
+    "S_center": 0.9999999996,
+    "cbo_amp": 0.01,
+    "cbo_phase": 0.0,
+    "dS_dr": -1e-12,
+    "dt_us": 0.05,
+    "include_cbo": false,
+    "kappa_mu": 1.0,
+    "kappa_p": 0.0,
+    "mode": "radial",
+    "noise_sigma": 0.0,
+    "ring_radius_m": 7.112,
+    "rng_seed": 42,
+    "s_field_path": null,
+    "save_ideal": true,
+    "t_max_us": 10000.0
+  },
+  "delta_a_linear": -5.057925443503863e-13,
+  "delta_a_linear_x1e11": -0.05057925443503863,
+  "delta_ln_ratio": -4.338139848289516e-10,
+  "delta_ratio": -1.6082374147685652e-12,
+  "omega_a_meas_fit_rad_s": 1438051.5510538286,
+  "omega_a_obs_true_rad_s": 1438051.551092227,
+  "omega_a_std_rad_s": 1438051.5516776755,
+  "omega_p_obs_rad_s": 387907171.788,
+  "omega_p_std_rad_s": 387907171.788,
+  "ratio_meas": 0.003707205371907267,
+  "ratio_std": 0.0037072053735155044,
+  "room_1sigma_x1e11": 63.0,
+  "within_current_room_1sigma": true
+}
