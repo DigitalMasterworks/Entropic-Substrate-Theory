@@ -6,7 +6,7 @@ echo "--- STARTING FULL REPLICATION PIPELINE (17 MODULES) ---"
 echo "----------------------------------------------------------------"
 
 # --- CONFIGURATION ---
-NSA_FILE="nsa.v0_1_0.fits"
+NSA_FILE="nsa.v1_0_1.fits"
 WGET_URL_PRIMARY="https://data.sdss.org/sas/dr17/sdss/atlas/v1/nsa_v1_0_1.fits"
 
 # 1. PHASE 0: SETUP AND DATA ACQUISITION
