@@ -53,7 +53,7 @@ except Exception:
     np = None
 
 # ---------- NSA loader ----------
-NSA_FITS_BASENAME = "nsa_v1_0_1.fits"
+NSA_FITS_BASENAME = "nsa.v1_0_1.fits"
 def load_nsa_positions_or_none(fits_path: str) -> Optional[Dict[int, Tuple[float,float,float]]]:
     if not os.path.exists(fits_path):
         print(f"[note] NSA FITS not found at {fits_path}")
