@@ -1,0 +1,55 @@
+{
+  "generated": "2025-10-03T08:56:19.178842Z",
+  "ring": {
+    "r_mid": 0.86,
+    "Ntheta": 360,
+    "beta": 1.0
+  },
+  "running": {
+    "model": "sigmoid",
+    "p": 2.0,
+    "E_base": 1804.9752250000001,
+    "E_star_frac": 0.5,
+    "lam_max": 2.68e-06
+  },
+  "J_mean": 1.0,
+  "scenarios": {
+    "baseline": {
+      "label": "baseline (full beam)",
+      "E": 1804.9752250000001,
+      "lamE": 2.144e-06,
+      "J_mean": 1.0,
+      "lnS_op_mean": 2.144e-06,
+      "lnS_dyn_mean": 2.033508111236386e-30,
+      "lnS_tot_mean": 2.144e-06,
+      "lnS_required": 2.144e-06,
+      "gap": 0.0
+    },
+    "half": {
+      "label": "half-beam (0.5\u00b7E_base)",
+      "E": 902.4876125000001,
+      "lamE": 1.34e-06,
+      "J_mean": 1.0,
+      "lnS_op_mean": 1.34e-06,
+      "lnS_dyn_mean": 2.033508111236386e-30,
+      "lnS_tot_mean": 1.34e-06,
+      "lnS_required": 2.144e-06,
+      "gap": 8.04e-07
+    },
+    "no_beam": {
+      "label": "no-beam (E=0)",
+      "E": 0.0,
+      "lamE": 3.290427263876537e-72,
+      "J_mean": 1.0,
+      "lnS_op_mean": 3.290427263876537e-72,
+      "lnS_dyn_mean": 2.033508111236386e-30,
+      "lnS_tot_mean": 2.033508111236386e-30,
+      "lnS_required": 2.144e-06,
+      "gap": 2.144e-06
+    }
+  },
+  "files": {
+    "S_ring": "outputs/S_ring.npy",
+    "md": "outputs/substrate_op_collapse_summary.md"
+  }
+}

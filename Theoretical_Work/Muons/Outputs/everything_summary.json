@@ -1,0 +1,131 @@
+{
+  "generated": "2025-10-03T07:20:49.390725Z",
+  "inputs": {
+    "delta_a_target_x1e11": 250.0,
+    "a_mu_sm": 0.00116592033,
+    "kappa_diff": 1.0,
+    "B_T": 1.45,
+    "E_Vpm": 1000000.0,
+    "alt_m": 228.0
+  },
+  "required": {
+    "lnS_required": 2.144228842806095e-06,
+    "phi_required_J_per_kg": 192713677686.88315
+  },
+  "earth": {
+    "lnS_earth": -6.961062193855014e-10,
+    "delta_a_from_earth": -8.116043930209961e-13,
+    "delta_a_from_earth_x1e11": -0.08116043930209961,
+    "lnS_from_S_real": -6.961062839685764e-10
+  },
+  "qed": {
+    "lnS_qed": -5.570452276422244e-24,
+    "termB": 1.0791239884463675e-19,
+    "termE": 4.017447199265381e-24,
+    "coeff": 5.161821035048265e-05
+  },
+  "measured_latest": [
+    {
+      "file": "precession_run_1759473503_summary.json",
+      "mode": "uniform",
+      "kappa_mu": 1.0,
+      "kappa_p": 0.0,
+      "S_mean": 0.9999999993050003,
+      "S_min": 0.999999999305,
+      "S_max": 0.999999999305,
+      "Delta_lnR": -7.217013655964292e-10,
+      "delta_a_mu": -8.414462943376393e-13,
+      "delta_a_mu_x1e11": -0.08414462943376393,
+      "within_room": true,
+      "omega_a_std": 1438051.5516776755,
+      "omega_a_meas": 1438051.5506398317,
+      "ratio_std": 0.0037072053735155044,
+      "ratio_meas": 0.003707205370840009
+    },
+    {
+      "file": "precession_run_1759473505_summary.json",
+      "mode": "uniform",
+      "kappa_mu": 1.0,
+      "kappa_p": 1.0,
+      "S_mean": 0.9999999993050003,
+      "S_min": 0.999999999305,
+      "S_max": 0.999999999305,
+      "Delta_lnR": -2.670164089870874e-11,
+      "delta_a_mu": -3.113198596816399e-14,
+      "delta_a_mu_x1e11": -0.003113198596816399,
+      "within_room": true,
+      "omega_a_std": 1438051.5516776755,
+      "omega_a_meas": 1438051.5506398317,
+      "ratio_std": 0.0037072053735155044,
+      "ratio_meas": 0.003707205373416516
+    },
+    {
+      "file": "precession_run_1759473507_summary.json",
+      "mode": "radial",
+      "kappa_mu": 1.0,
+      "kappa_p": 0.0,
+      "S_mean": 0.9999999995928878,
+      "S_min": 0.999999999592888,
+      "S_max": 0.999999999592888,
+      "Delta_lnR": -4.338139848289516e-10,
+      "delta_a_mu": -5.057925443503863e-13,
+      "delta_a_mu_x1e11": -0.05057925443503863,
+      "within_room": true,
+      "omega_a_std": 1438051.5516776755,
+      "omega_a_meas": 1438051.5510538286,
+      "ratio_std": 0.0037072053735155044,
+      "ratio_meas": 0.003707205371907267
+    },
+    {
+      "file": "precession_run_1759473508_summary.json",
+      "mode": "uniform",
+      "kappa_mu": 1.0,
+      "kappa_p": 0.0,
+      "S_mean": 0.9999999993050003,
+      "S_min": 0.999999999305,
+      "S_max": 0.999999999305,
+      "Delta_lnR": -7.217013655964292e-10,
+      "delta_a_mu": -8.414462943376393e-13,
+      "delta_a_mu_x1e11": -0.08414462943376393,
+      "within_room": true,
+      "omega_a_std": 1438051.5516776755,
+      "omega_a_meas": 1438051.5506398317,
+      "ratio_std": 0.0037072053735155044,
+      "ratio_meas": 0.003707205370840009
+    },
+    {
+      "file": "precession_run_1759475072_summary.json",
+      "mode": "file",
+      "kappa_mu": 1.0,
+      "kappa_p": 0.0,
+      "S_mean": 0.9999999993038937,
+      "S_min": 0.9999999993038938,
+      "S_max": 0.9999999993038938,
+      "Delta_lnR": -7.228081469304773e-10,
+      "delta_a_mu": -8.427367131958706e-13,
+      "delta_a_mu_x1e11": -0.08427367131958706,
+      "within_room": true,
+      "omega_a_std": 1438051.5516776755,
+      "omega_a_meas": 1438051.55063824,
+      "ratio_std": 0.0037072053735155044,
+      "ratio_meas": 0.003707205370835906
+    },
+    {
+      "file": "precession_run_1759475074_summary.json",
+      "mode": "file",
+      "kappa_mu": 1.0,
+      "kappa_p": 1.0,
+      "S_mean": 0.9999999993038937,
+      "S_min": 0.9999999993038938,
+      "S_max": 0.9999999993038938,
+      "Delta_lnR": -2.6701862943313673e-11,
+      "delta_a_mu": -3.1132244854483046e-14,
+      "delta_a_mu_x1e11": -0.0031132244854483048,
+      "within_room": true,
+      "omega_a_std": 1438051.5516776755,
+      "omega_a_meas": 1438051.55063824,
+      "ratio_std": 0.0037072053735155044,
+      "ratio_meas": 0.003707205373416515
+    }
+  ]
+}
