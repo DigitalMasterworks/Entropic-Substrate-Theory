@@ -7,7 +7,7 @@ echo "----------------------------------------------------------------"
 
 # --- CONFIGURATION ---
 NSA_FILE="nsa.v0_1_2.fits"
-WGET_URL_PRIMARY="http://www.nsatlas.org/data/nsa.v0_1_2.fits"
+WGET_URL_PRIMARY="https://data.sdss.org/sas/dr17/sdss/atlas/v1/nsa_v1_0_1.fits"
 
 # 1. PHASE 0: SETUP AND DATA ACQUISITION
 echo "Phase 0: Environment Setup and Data Download"
