@@ -12,7 +12,7 @@ import os, re, sys, math, glob, csv, itertools, time
 from typing import Dict, Tuple, Optional, List
 
 # --- LOGGING SETUP ---
-LOG_FILENAME = "your_log_file_name.log" # Make sure to change this file name for each script!
+LOG_FILENAME = "predictionstester.log" # Make sure to change this file name for each script!
 LOG_FILE = None
 _original_print = print
 
