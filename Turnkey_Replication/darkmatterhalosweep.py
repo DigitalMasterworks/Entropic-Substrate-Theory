@@ -139,5 +139,6 @@ plt.xlabel("Halo Strength (S level)")
 plt.ylabel("Halo Radius (pixels)")
 plt.title("Lensing-to-Dynamical Mass Ratio Across Halo Parameters")
 # plt.show() # Run this interactively to see the plot
-
+plt.savefig('darkmatterhalosweep_heatmap.png')
+plt.close()
 results
