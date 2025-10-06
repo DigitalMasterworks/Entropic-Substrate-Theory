@@ -258,7 +258,7 @@ def shoot_null_ray(b, Xmax, h, pars, S_provider,
     if rhs_mode == "closed":
         rhs = lambda lam, U, P: geodesic_rhs_closed(lam, U, S_provider, P)
     else:
-        rhs = lambda lam, U, P: geodesic_rhs_lambdified(lam, U, S_provider, P)  # your current path
+        rhs = lambda lam, U, P: geodesic_rhs_lambdified(lam, U, S_provider, P)
 
     N = int((2*Xmax)/h)
     for _ in range(N):
