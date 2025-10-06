@@ -36,7 +36,7 @@ tau_filter = 5.0      # heat-kernel time for exp(-τH) (dimensionless)
 probes = 16           # Hutchinson probes for trace estimate
 rng_seed = 7
 
-# Required substrate shift (from your pipeline)
+# Required substrate shift (from pipeline)
 lnS_required = 2.144e-6
 
 # Scenario amplitudes (small dimensionless modulations of the principal symbol)
