@@ -4,7 +4,7 @@ import argparse
 
 # ---------- Angle sets ----------
 def set_angles_yours():
-    # Your original set: a=0, a'=22.5°, b=45°, b'=67.5°
+    # original set: a=0, a'=22.5°, b=45°, b'=67.5°
     angles = [0.0, np.pi/4, np.pi/8, 3*np.pi/8]
     a, a_prime = angles[0], angles[2]
     b, b_prime = angles[1], angles[3]
