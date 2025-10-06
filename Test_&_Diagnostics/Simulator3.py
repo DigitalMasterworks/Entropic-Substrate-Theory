@@ -1,6 +1,6 @@
 # Simulator.py
 # Single file. No external data. Numpy and matplotlib only.
-# Locks in three diagnostics with the requested fixes and your autotuned constants:
+# Locks in three diagnostics with the requested fixes and autotuned constants:
 # 1) Halo: uses radians for lensing fit and reports M_lens/M_dyn correctly, with separate G_matter/G_lens
 # 2) Void: longer integration, tuned wall sigma, true r_start based inward bias using tuned launch_bias
 # 3) Anisotropy: tuned hill offset, steps, G, cap; dipole & quadrupole removal + residual power scalar
