@@ -128,7 +128,7 @@ def solve_evolution_pde(T_max=1.0, N_voxels=100, N_steps=30000):
             # Change in S is the divergence of the flux: dS/dt = (F_R - F_L) / dx
             dS_dt_i = (F_R - F_L) / dx
 
-            # Update S_new using your discrete Ricci Flow Update form
+            # Update S_new using discrete Ricci Flow Update form
             # S(x, t+dt) = S(x, t) + dt * dS/dt
             S_new[i] = S_i + dt * dS_dt_i
 
