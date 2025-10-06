@@ -1,12 +1,12 @@
 #!/usr/bin/env python3
 # predict_at_scale_v2.py
 # Zero-arg. NO files. NO solver.
-# Uses your interpolated λ3* and λ16* at csr* and a log-linear per-step factor
+# Uses interpolated λ3* and λ16* at csr* and a log-linear per-step factor
 # to synthesize λ(k) for fractional k in the (e,μ)=(λ3,λ16) frame.
 
 import math
 
-# ===== Interpolated anchors at csr* (from your run just now) =====
+# ===== Interpolated anchors at csr* =====
 CSR_STAR = -1.0515452864e-3
 LAM_E_STAR  = 3.121059408e+07   # λ3*  (electron)
 LAM_MU_STAR = 6.462285090e+09   # λ16* (muon)
