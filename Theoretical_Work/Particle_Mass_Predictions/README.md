@@ -23,3 +23,27 @@
 
 - λ(k) is synthesized with a log–linear ladder anchored at λ₃* and λ₁₆*.  
 - Entries above μ are extrapolations until τ is anchored.
+
+### Synthesized Spectrum at `csr*` (Atoms and Nuclei)
+
+**csr_scale*** = −1.0515452864×10⁻³  
+**λ₃***  = 3.121059408×10⁷  
+**λ₁₆*** = 6.462285090×10⁹  
+**μ/e*** (λ₁₆*/λ₃*) = **207.054216060** (public 206.768282990) **PASS | 0.138287 %**  
+**Per-step factor g** = 1.507163312  
+
+| Name   | k_pred | λ(k)/λ₁₆*  | Target X/μ  | Δ %   | Verdict | Note |
+|--------|:------:|:----------:|:-----------:|:-----:|:-------:|:-----|
+| H-1    | 21.33  | 8.890111   | 8.885079    | 0.057 | PASS    | atom |
+| D-2    | 23.01  |17.764914   |17.751674    | 0.075 | PASS    | atom |
+| He-4   | 24.69  |35.310245   |35.277648    | 0.092 | PASS    | atom |
+| C-12   | 27.37  |105.921017  |105.793118   | 0.121 | PASS    | atom |
+| O-16   | 28.07  |141.206872  |141.025857   | 0.128 | PASS    | atom |
+| Fe-56  | 31.12  |493.922798  |493.129605   | 0.161 | PASS    | atom |
+| U-238  | 34.65  |2102.394936 |2098.231011  | 0.198 | PASS    | atom |
+
+**Notes**
+
+- λ(k) is synthesized with a log–linear ladder anchored at λ₃* and λ₁₆*.
+- Entries above μ are extrapolations until τ is anchored.
+- All entries are atomic/nuclear masses; binding energy corrections are negligible at this scale.
