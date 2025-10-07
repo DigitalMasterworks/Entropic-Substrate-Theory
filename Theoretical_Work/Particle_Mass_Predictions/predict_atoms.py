@@ -1,12 +1,13 @@
 #!/usr/bin/env python3
 # predict_at_scale_v2.py
 # Zero-arg. NO files. NO solver.
-# Uses your interpolated λ3* and λ16* at csr* and a log-linear per-step factor
+# Uses interpolated λ3* and λ16* at csr* and a log-linear per-step factor
 # to synthesize λ(k) for fractional k in the (e,μ)=(λ3,λ16) frame.
 
 import math
+import csv
 
-# ===== Interpolated anchors at csr* (from your run just now) =====
+# ===== Interpolated anchors at csr* =====
 CSR_STAR = -1.0515452864e-3
 LAM_E_STAR  = 3.121059408e+07   # λ3*  (electron)
 LAM_MU_STAR = 6.462285090e+09   # λ16* (muon)
@@ -21,6 +22,20 @@ MU_OVER_E_PUBLIC = 206.76828299
 # Per-step geometric factor between λ3* and λ16*
 g = (LAM_MU_STAR / LAM_E_STAR) ** (1.0 / STEPS_EM)
 
+def read_atomic_masses(filename, symbol_col="Symbol", mass_col="AtomicMass", delimiter='\t'):
+    atoms = []
+    with open(filename, newline='') as csvfile:
+        reader = csv.DictReader(csvfile, delimiter=delimiter)
+        for row in reader:
+            try:
+                symbol = row[symbol_col]
+                mass_u = float(row[mass_col])
+                mass_mev = mass_u * 931.49410242  # atomic mass unit → MeV
+                atoms.append((symbol, mass_mev))
+            except Exception:
+                continue
+    return atoms
+    
 def lambda_at_k(k: float) -> float:
     """
     Synthesize λ(k) using log-linear interpolation anchored at k=3 and k=16.
@@ -42,16 +57,7 @@ def verdict(err):
 MeV = 1.0
 M_E  = 0.51099895*MeV
 M_MU = M_E * MU_OVER_E_PUBLIC  # by definition
-ATOMS = [
-    ("H-1",      938.783),
-    ("D-2",     1875.613),
-    ("He-4",    3727.379),
-    ("C-12",   11177.929),
-    ("O-16",   14900.563),
-    ("Fe-56",  52103.273),
-    ("U-238", 221695.68),
-]
-
+ATOMS = read_atomic_masses("Atomtable.csv", delimiter=',')
 # Two-anchor slot predictor (e↔μ only)
 ln_mu_e = math.log(MU_OVER_E_PUBLIC)
 def k_from_mass_two_anchor(m):
@@ -60,7 +66,7 @@ def k_from_mass_two_anchor(m):
 def main():
     # Show anchors & check μ/e at this csr*
     r_mu_e = LAM_MU_STAR / LAM_E_STAR
-    print("=== Synthesized spectrum at csr* (no files) ===")
+    print("=== Synthesized spectrum at csr* ===")
     print(f"csr_scale* = {CSR_STAR:.10e}")
     print(f"λ3*  = {LAM_E_STAR: .9e}")
     print(f"λ16* = {LAM_MU_STAR: .9e}")
