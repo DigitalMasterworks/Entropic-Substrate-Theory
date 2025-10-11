@@ -1,0 +1,674 @@
+NAME,LOGP,PKA,MW,FORM,SOL
+Cyclacillin,1.31,3.3,341.426,C15H23N3O4S,1.9 mg/ml
+Salbutamol,1.4,10.12,239.3107,C13H21NO3,2.15 mg/ml
+Levobupivacaine,3.6,13.62,288.4277,C18H28N2O,0.0977 mg/ml
+Cromoglicic acid,1.92,1.77,468.3665,C23H16O11,0.0358 mg/ml
+Ganciclovir,-1.66,10.16,255.2306,C9H13N5O4,11.5 mg/ml
+Hydroxyurea,-1.8,10.14,76.0547,CH4N2O2,269.0 mg/ml
+Ketoprofen,3.12,3.88,254.2806,C16H14O3,0.0213 mg/ml
+Edrophonium,-2.95,8.59,166.2401,C10H16NO,0.0486 mg/ml
+Clobetasol propionate,3.5,13.63,466.97,C25H32ClFO5,0.00413 mg/ml
+Balsalazide,1.3,3.06,357.3175,C17H15N3O6,0.0621 mg/ml
+Sulfamethoxazole,0.89,6.16,253.278,C10H11N3O3S,0.459 mg/ml
+Glyburide,4.7,4.32,494.004,C23H28ClN3O5S,0.00206 mg/ml
+Minocycline,0.05,-2.3,457.4764,C23H27N3O7,3.07 mg/ml
+Guanfacine,1.7,12.94,246.093,C9H9Cl2N3O,0.139 mg/ml
+Bethanechol,-2.8,15.34,161.2221,C7H17N2O2,0.311 mg/ml
+Isosorbide Mononitrate,-0.15,13.34,191.1388,C6H9NO6,57.0 mg/ml
+Trichlormethiazide,0.62,8.32,380.656,C8H8Cl3N3O4S2,0.415 mg/ml
+Mycophenolic acid,2.8,3.57,320.3371,C17H20O6,0.0355 mg/ml
+Amlexanox,4.1,4.3,298.2934,C16H14N2O4,0.146 mg/ml
+Irbesartan,6,7.4,428.5294,C25H28N6O,0.00884 mg/ml
+Topotecan,0.8,8,421.4458,C23H23N3O5,0.861 mg/ml
+Ethinamate,1.2,15.37,167.205,C9H13NO2,0.106 mg/ml
+Probenecid,3.21,3.53,285.359,C13H19NO4S,0.425 mg/ml
+Mercaptopurine,0.01,9.5,152.177,C5H4N4S,0.735 mg/ml
+Cerulenin,1.2,14.16,223.2683,C12H17NO3,1.6 mg/ml
+Procainamide,0.88,15.75,235.3253,C13H21N3O,3.02 mg/ml
+Tolterodine,5.6,10.28,325.4876,C22H31NO,0.00534 mg/ml
+Carphenazine,3.3,15.56,411.56,C23H29N3O2S,0.0905 mg/ml
+Hydroxystilbamidine Isethionate,1.679,8.22,532.58,C20H28N4O9S2,0.0644 mg/ml
+Thalidomide,0.33,11.59,258.2295,C13H10N2O4,2.55 mg/ml
+Melphalan,-0.52,1.29,305.2,C13H18Cl2N2O2,0.358 mg/ml
+Gatifloxacin,2.6,5.69,375.3941,C19H22FN3O4,0.631 mg/ml
+Lubiprostone,4.3,4.3,390.468,C20H32F2O5,0.0256 mg/ml
+Fluocinonide,3.19,13.55,494.5249,C26H32F2O7,0.0168 mg/ml
+Abacavir,1.2,15.41,286.3323,C14H18N6O,1.21 mg/ml
+Ibuprofen,3.97,4.85,206.2808,C13H18O2,0.0684 mg/ml
+Novobiocin,4.1,6.96,612.6243,C31H36N2O11,0.00966 mg/ml
+Benzylpenicillin,1.83,3.53,334.39,C16H18N2O4S,0.285 mg/ml
+Mimosine,-2.5,1.94,198.176,C8H10N2O4,13.1 mg/ml
+Tocainide,0.76,13.65,192.2575,C11H16N2O,1.6 mg/ml
+Praziquantel,2.5,19.38,312.4061,C19H24N2O2,0.381 mg/ml
+Norfloxacin,-1.03,5.77,319.3308,C16H18FN3O3,1.01 mg/ml
+Amoxicillin,0.87,3.23,365.404,C16H19N3O5S,0.958 mg/ml
+Azlocillin,0.2,3.49,461.492,C20H23N5O6S,0.233 mg/ml
+Oxybutynin,4.3,11.53,357.4864,C22H31NO3,0.01 mg/ml
+Acetophenazine,2.62,15.46,411.56,C23H29N3O2S,0.0601 mg/ml
+Isoprenaline,1.4,9.81,211.2576,C11H17NO3,5.86 mg/ml
+Melatonin,1.6,15.8,232.2783,C13H16N2O2,0.143 mg/ml
+Cefditoren,1.7,3.4,506.578,C19H18N6O5S3,0.0441 mg/ml
+Glipizide,1.91,4.32,445.535,C21H27N5O4S,0.0164 mg/ml
+Clonazepam,2.41,11.89,315.711,C15H10ClN3O3,0.0106 mg/ml
+Dihydrotachysterol,7.5,18.3,398.6642,C28H46O,0.000125 mg/ml
+Atazanavir,4.5,11.92,704.8555,C38H52N6O7,0.00327 mg/ml
+Fludarabine,-2.8,12.45,285.235,C10H12FN5O4,12.1 mg/ml
+Atorvastatin,5.7,4.33,557.6319,C33H34FN2O5,0.000495 mg/ml
+Etidronic acid,-3.8,0.7,206.0282,C2H8O7P2,11.5 mg/ml
+Deslanoside,0.2,7.15,943.0791,C47H74O19,0.468 mg/ml
+Tegaserod,2.6,15.24,301.394,C16H23N5O,0.0288 mg/ml
+Vigabatrin,-2.16,4.61,129.157,C6H11NO2,96.6 mg/ml
+Streptomycin,-6.4,10.88,581.5741,C21H39N7O12,12.8 mg/ml
+Orlistat,8.6,12.74,495.7348,C29H53NO5,9.19e-05 mg/ml
+Primaquine,2.1,17.11,259.3467,C15H21N3O,0.0564 mg/ml
+Iloprost,4.8,4.66,360.494,C22H32O4,0.00874 mg/ml
+Deserpidine,3.3,16.37,578.6527,C32H38N2O8,0.0111 mg/ml
+Ouabain,-2,7.18,584.6525,C29H44O12,4.61 mg/ml
+Hesperetin,2.6,7.92,302.2788,C16H14O6,0.138 mg/ml
+Fluvastatin,4.5,4.56,411.4659,C24H26FNO4,0.00441 mg/ml
+Oxamniquine,2.24,14.55,279.3348,C14H21N3O3,0.124 mg/ml
+Leflunomide,2.8,10.41,270.2073,C12H9F3N2O2,0.0844 mg/ml
+Rosuvastatin,0.13,4,481.538,C22H28FN3O6S,0.0886 mg/ml
+Flucytosine,-1.1,8.16,129.0925,C4H4FN3O,1.92 mg/ml
+Pimozide,6.3,12.9,461.5462,C28H29F2N3O,0.00173 mg/ml
+Capecitabine,0.4,8.23,359.3501,C15H22FN3O6,0.248 mg/ml
+Arbutamine,2.9,8.97,317.3795,C18H23NO4,0.0842 mg/ml
+Levocabastine,5,3.71,420.528,C26H29FN2O2,0.00347 mg/ml
+Methyprylon,0.78,14.53,183.2475,C10H17NO2,11.3 mg/ml
+Trilostane,3,5.23,329.4333,C20H27NO3,0.0593 mg/ml
+Colistimethate,-1.2,-4.3,1634.87,C58H105N16O28S5,4.17 mg/ml
+Cefuroxime,-0.16,3.15,424.385,C16H16N4O8S,0.284 mg/ml
+Atovaquone,5.8,8.23,366.837,C22H19ClO3,0.000796 mg/ml
+Diazoxide,1.2,10.48,230.671,C8H7ClN2O2S,0.552 mg/ml
+Gliclazide,2.6,4.07,323.411,C15H21N3O3S,0.19 mg/ml
+Phenacemide,0.87,11.75,178.1879,C9H10N2O2,1.06 mg/ml
+Ambenonium,2.27,10.78,537.565,C28H42Cl2N4O2,9.42e-07 mg/ml
+Tolbutamide,2.34,4.33,270.348,C12H18N2O3S,0.202 mg/ml
+Anisindione,2.88,4.5,252.2647,C16H12O3,0.0128 mg/ml
+Dutasteride,6.8,12.56,528.5297,C27H30F6N2O2,0.000908 mg/ml
+Bicalutamide,2.5,11.95,430.373,C18H14F4N2O4S,0.00928 mg/ml
+Rabeprazole,0.6,9.35,359.443,C18H21N3O3S,0.336 mg/ml
+Prednicarbate,2.9,14.83,488.577,C27H36O8,0.00562 mg/ml
+Proguanil,2.53,19.77,253.731,C11H16ClN5,0.286 mg/ml
+Pioglitazone,2.3,6.66,356.439,C19H20N2O3S,0.00442 mg/ml
+Tiludronic acid,-0.6,1.03,318.608,C7H9ClO6P2S,6.97 mg/ml
+Desoxycorticosterone Pivalate,4,17.19,414.586,C26H38O4,0.00141 mg/ml
+Doxacurium chloride,3.82,18.41,1106.14,C56H78Cl2N2O16,8.54e-05 mg/ml
+Carvedilol,4.19,14.03,406.4742,C24H26N2O4,0.00444 mg/ml
+Levofloxacin,2.1,5.45,361.3675,C18H20FN3O4,1.44 mg/ml
+Sulfinpyrazone,2.3,3.41,404.482,C23H20N2O3S,0.323 mg/ml
+Cefapirin,-1.15,3.54,423.463,C17H17N3O6S2,0.151 mg/ml
+Cefadroxil,-0.4,3.45,363.388,C16H17N3O5S,0.399 mg/ml
+Micafungin,-1.5,-2.2,1270.274,C56H71N9O23S,0.218 mg/ml
+Amifostine,-1.9,2.06,214.223,C5H15N2O3PS,18.7 mg/ml
+Diclofenamide,0.2,7.94,305.159,C6H6Cl2N2O4S2,0.398 mg/ml
+Sulfoxone,-2.8,-1.5,404.482,C14H16N2O6S3,2.63 mg/ml
+Cloxacillin,2.48,3.75,435.881,C19H18ClN3O5S,0.0532 mg/ml
+Cefprozil,0.6,3.53,389.426,C18H19N3O5S,0.149 mg/ml
+Candicidin,1.7,3.68,1109.3009,C59H84N2O18,0.00934 mg/ml
+Thiamylal,3.23,7.2,254.349,C12H18N2O2S,0.0506 mg/ml
+Gemifloxacin,2.3,5.53,389.3809,C18H20FN5O4,0.21 mg/ml
+Bupropion,3.6,18.29,239.741,C13H18ClNO,0.0693 mg/ml
+Trimetrexate,2.55,17.04,369.4176,C19H23N5O3,0.0309 mg/ml
+Bretylium,-1.4,17.58,243.163,C11H17BrN,0.000154 mg/ml
+Terazosin,1,19.93,387.4329,C19H25N5O4,1.5 mg/ml
+Amdinocillin,1.3,3.3,325.426,C15H23N3O3S,0.979 mg/ml
+Ofloxacin,-0.39,5.45,361.3675,C18H20FN3O4,1.44 mg/ml
+Cilostazol,2.3,14.42,369.4607,C20H27N5O2,0.0324 mg/ml
+Procarbazine,0.06,15.03,221.2988,C12H19N3O,0.228 mg/ml
+Moclobemide,1.5,14.73,268.739,C13H17ClN2O2,1.12 mg/ml
+Kanamycin,-6.3,12.11,484.4986,C18H36N4O11,92.3 mg/ml
+Phenobarbital,1.47,8.14,232.2353,C12H12N2O3,0.276 mg/ml
+Idarubicin,0.2,9.55,497.4939,C26H27NO9,0.772 mg/ml
+Chlormezanone,1.3,19.07,273.736,C11H12ClNO3S,1.61 mg/ml
+Podofilox,1.5,14.02,414.4053,C22H22O8,0.114 mg/ml
+Rescinnamine,3.5,16.29,634.716,C35H42N2O9,0.00349 mg/ml
+Ifosfamide,0.86,13.24,261.086,C7H15Cl2N2O2P,15.0 mg/ml
+Propafenone,3.2,14.09,341.444,C21H27NO3,0.00758 mg/ml
+Naloxone,2.09,7.27,327.3743,C19H21NO4,5.64 mg/ml
+Domperidone,3.9,12.52,425.911,C22H24ClN5O2,0.0925 mg/ml
+Fluoxymesterone,2.38,13.6,336.4409,C20H29FO3,0.0452 mg/ml
+Pergolide,4,17.35,314.488,C19H26N2S,0.000584 mg/ml
+Ciclopirox,2.3,6.84,207.2689,C12H17NO2,1.41 mg/ml
+Desflurane,1.9,18.87,168.0378,C3H2F6O,3.54 mg/ml
+Clindamycin,2.16,12.16,424.983,C18H33ClN2O5S,3.1 mg/ml
+Oxymorphone,0.83,7.34,301.3371,C17H19NO4,25.6 mg/ml
+Acebutolol,1.71,13.91,336.4259,C18H28N2O4,0.172 mg/ml
+Brinzolamide,-1.8,8.19,383.507,C12H21N3O5S3,0.713 mg/ml
+Flecainide,3.78,13.68,414.3427,C17H20F6N2O3,0.0324 mg/ml
+Estramustine,5.7,19.38,440.403,C23H31Cl2NO3,0.000385 mg/ml
+Captopril,0.34,4.02,217.285,C9H15NO3S,4.52 mg/ml
+Zopiclone,0.8,13.04,388.808,C17H17ClN6O3,0.885 mg/ml
+Tubocurarine,3.12,6.45,609.7312,C37H41N2O6,0.000323 mg/ml
+Bromocriptine,3.5,9.68,654.595,C32H40BrN5O5,0.0858 mg/ml
+Rifapentine,4,7.01,877.0307,C47H64N4O12,0.0213 mg/ml
+Levetiracetam,-0.6,16.09,170.212,C8H14N2O2,298.0 mg/ml
+Nadolol,0.81,13.59,309.4006,C17H27NO4,2.25 mg/ml
+Mitoxantrone,-3.1,9.78,444.4809,C22H28N4O6,0.734 mg/ml
+Lomustine,2.83,13.3,233.695,C9H16ClN3O2,0.755 mg/ml
+Ridogrel,4.3,3.5,366.3344,C18H17F3N2O3,0.00839 mg/ml
+Sparfloxacin,2.5,5.75,392.3998,C19H22F2N4O3,0.113 mg/ml
+Dezocine,3.3,10.43,245.3599,C16H23NO,0.014 mg/ml
+Levobunolol,2.4,14.09,291.3853,C17H25NO3,0.251 mg/ml
+Clarithromycin,3.16,12.46,747.9534,C38H69NO13,0.217 mg/ml
+Ceftriaxone,-1.7,3.19,554.58,C18H18N8O7S3,0.105 mg/ml
+Fomepizole,0.9,15.82,82.1038,C4H6N2,559.0 mg/ml
+Metipranolol,2.66,14.09,309.4006,C17H27NO4,0.173 mg/ml
+Estazolam,4.7,18.4,294.738,C16H11ClN4,0.0423 mg/ml
+Finasteride,3.03,14.53,372.5441,C23H36N2O2,0.00198 mg/ml
+Halofantrine,8.9,14.47,500.424,C26H30Cl2F3NO,0.000111 mg/ml
+Dantrolene,1.7,9.23,314.253,C14H10N4O5,0.0805 mg/ml
+Rifaximin,2.6,3.66,785.8785,C43H51N3O11,0.00738 mg/ml
+Ketamine,2.9,18.78,237.725,C13H16ClNO,0.0464 mg/ml
+Budesonide,1.9,13.74,430.5339,C25H34O6,0.0457 mg/ml
+Quetiapine,2.8,15.12,383.507,C21H25N3O2S,0.0403 mg/ml
+Mivacurium,3.8,18.59,1029.2608,C58H80N2O14,3.26e-05 mg/ml
+Encainide,4,12.37,352.4699,C22H28N2O2,0.00401 mg/ml
+Paclitaxel,3,10.36,853.9061,C47H51NO14,0.00556 mg/ml
+Pemoline,0.7,14.95,176.172,C9H8N2O2,0.979 mg/ml
+Diphenidol,4.3,13.4,309.4452,C21H27NO,0.00587 mg/ml
+Saquinavir,3.8,5.11,670.8408,C38H50N6O5,0.00765 mg/ml
+Metoclopramide,2.62,14.49,299.796,C14H22ClN3O2,0.31 mg/ml
+Dexamethasone,1.83,12.42,392.4611,C22H29FO5,0.0505 mg/ml
+Levodopa,-2.39,1.65,197.1879,C9H11NO4,3.3 mg/ml
+Sevoflurane,2.4,15.07,200.0548,C4H3F7O,1.48 mg/ml
+Aripiprazole,4.5,13.51,448.385,C23H27Cl2N3O2,0.00777 mg/ml
+Epoprostenol,3,4.43,352.4651,C20H32O5,0.136 mg/ml
+Gemfibrozil,3.4,4.42,250.3334,C15H22O3,0.0278 mg/ml
+Chloroxine,3,6.95,214.048,C9H5Cl2NO,0.138 mg/ml
+Isocarboxazid,1.49,12.02,231.2505,C12H13N3O2,0.224 mg/ml
+Docetaxel,2.4,10.96,807.8792,C43H53NO14,0.0127 mg/ml
+Iodixanol,0.5,11.43,1550.1819,C35H44I6N6O15,0.185 mg/ml
+Olsalazine,2.3,2.93,302.239,C14H10N2O6,0.0781 mg/ml
+Gliquidone,4.5,4.32,527.632,C27H33N3O6S,0.0022 mg/ml
+Mitiglinide,2.9,4.62,315.413,C19H25NO3,0.0708 mg/ml
+Ergonovine,0.9,15,325.4048,C19H23N3O2,0.321 mg/ml
+Dasatinib,1.8,8.49,488.006,C22H26ClN7O2S,0.0128 mg/ml
+Lisdexamfetamine,1.06,15.89,263.3785,C15H25N3O,0.0877 mg/ml
+Retapamulin,5,14.43,517.763,C30H47NO4S,0.000394 mg/ml
+Lapatinib,5.4,15.99,581.058,C29H26ClFN4O4S,0.0223 mg/ml
+Desonide,1.4,13.74,416.5073,C24H32O6,0.0594 mg/ml
+Decitabine,-2,13.89,228.2053,C8H12N4O4,5.5 mg/ml
+Posaconazole,5.5,14.83,700.7774,C37H42F2N8O4,0.012 mg/ml
+Darunavir,1.8,13.59,547.664,C27H37N3O7S,0.0668 mg/ml
+Telbivudine,-1.4,9.96,242.2286,C10H14N2O5,66.8 mg/ml
+Paliperidone,1.8,13.74,426.4839,C23H27FN4O3,0.297 mg/ml
+Sunitinib,5.2,11.46,398.4738,C22H27FN4O2,0.0308 mg/ml
+Arformoterol,2.2,8.61,344.4049,C19H24N2O4,0.0416 mg/ml
+Hydralazine,1,17.69,160.1759,C8H8N4,2.61 mg/ml
+Nelarabine,-1,12.45,297.2673,C11H15N5O5,13.9 mg/ml
+Carbetocin,-2,11.42,988.161,C45H69N11O12S,0.0265 mg/ml
+Lumiracoxib,3.9,4.11,293.721,C15H13ClFNO2,0.00549 mg/ml
+Tetracosactide,-0.95,3.03,2933.49,C136H210N40O31S,0.0481 mg/ml
+Fenoterol,1.36,8.85,303.3529,C17H21NO4,0.162 mg/ml
+Glisoxepide,1.57,4.07,449.524,C20H27N5O5S,0.103 mg/ml
+Pirbuterol,0.38,8.79,240.2988,C12H20N2O3,6.22 mg/ml
+Bevantolol,3,14.09,345.4327,C20H27NO4,0.0137 mg/ml
+Glucosamine,-2.7,11.73,179.1711,C6H13NO5,551.0 mg/ml
+Practolol,0.79,14.03,266.3361,C14H22N2O3,0.49 mg/ml
+Sulfacytine,0.51,10.55,294.33,C12H14N4O3S,0.468 mg/ml
+Sulfadoxine,0.7,6.12,310.329,C12H14N4O4S,0.296 mg/ml
+Rolitetracycline,-0.08,0.31,527.5662,C27H33N3O8,1.81 mg/ml
+Oxtriphylline,-0.99,7.82,283.3268,C12H21N5O3,3.84 mg/ml
+Fosamprenavir,0.84,1.22,585.607,C25H36N3O9PS,0.685 mg/ml
+Fosphenytoin,1.08,1.46,362.2739,C16H15N2O6P,0.145 mg/ml
+Josamycin,3.47,12.67,827.995,C42H69NO15,0.0535 mg/ml
+Kava,2.74,16.55,232.275,C14H16O3,0.0632 mg/ml
+Polythiazide,1.9,9.31,439.882,C11H13ClF3N3O4S3,0.264 mg/ml
+Quinethazone,1.6,9.56,289.739,C10H12ClN3O3S,2.51 mg/ml
+Cefamandole,0.5,3.32,462.503,C18H18N6O5S2,0.581 mg/ml
+Cefazolin,-0.58,3.03,454.507,C14H14N8O4S3,0.487 mg/ml
+Cefonicid,-0.71,-1.4,542.566,C18H18N6O8S3,0.895 mg/ml
+Cefoperazone,-0.74,3.38,645.667,C25H27N9O8S2,0.286 mg/ml
+Cefotetan,-0.65,3.23,575.619,C17H17N7O8S4,0.521 mg/ml
+Cefoxitin,-0.02,3.59,427.452,C16H17N3O7S2,0.195 mg/ml
+Ceftizoxime,0.4,3.13,383.403,C13H13N5O5S2,0.229 mg/ml
+Cefradine,0.7,3.46,349.405,C16H19N3O4S,0.778 mg/ml
+Doxacurium chloride,3.82,18.41,1106.14,C56H78Cl2N2O16,8.54e-05 mg/ml
+Metocurine,2.36,12.99,652.8189,C40H48N2O6,6.42e-06 mg/ml
+Cilazapril,0.8,3.41,417.4986,C22H31N3O5,1.06 mg/ml
+Forasartan,4.51,7.35,416.522,C23H28N8,0.00667 mg/ml
+Saprisartan,5.89,2.27,611.431,C25H22BrF3N4O4S,0.0151 mg/ml
+Spirapril,1.79,3.62,466.614,C22H30N2O5S2,0.0293 mg/ml
+Tasosartan,3.07,7.4,411.4591,C23H21N7O,0.0325 mg/ml
+Amobarbital,2.07,8.48,226.2722,C11H18N2O3,0.897 mg/ml
+Aprobarbital,1.15,8.48,210.2298,C10H14N2O3,5.17 mg/ml
+Butethal,1.73,8.48,212.2456,C10H16N2O3,1.27 mg/ml
+Heptabarbital,2.03,8.14,250.2936,C13H18N2O3,0.324 mg/ml
+Hexobarbital,1.98,8.41,236.267,C12H16N2O3,1.51 mg/ml
+Mestranol,3.89,17.59,310.4299,C21H26O2,0.00377 mg/ml
+Penbutolol,4.15,14.09,291.4284,C18H29NO2,0.0212 mg/ml
+Troleandomycin,3.76,16.75,813.9684,C41H67NO15,0.0192 mg/ml
+Iohexol,-3.05,11.73,821.1379,C19H26I3N3O9,0.796 mg/ml
+Ephedrine,1.13,13.89,165.2322,C10H15NO,8.26 mg/ml
+Procaterol,1.28,8.52,290.3575,C16H22N2O3,0.329 mg/ml
+Quinupristin,2.99,7.45,1022.23,C53H67N9O10S,0.0445 mg/ml
+Cortisone acetate,2.1,12.6,402.4807,C23H30O6,0.0278 mg/ml
+Glycodiazine,1.27,6.92,309.341,C13H15N3O4S,0.124 mg/ml
+Paramethasone,1.51,12.45,392.4611,C22H29FO5,0.145 mg/ml
+Mibefradil,5.34,12.54,495.6287,C29H38FN3O3,0.00104 mg/ml
+Yohimbine,2.73,14.68,354.4427,C21H26N2O3,0.348 mg/ml
+Bezafibrate,3.97,3.83,361.819,C19H20ClNO4,0.00155 mg/ml
+Colchicine,1.3,15.06,399.437,C22H25NO6,0.0276 mg/ml
+Digitoxin,1.85,7.18,764.9391,C41H64O13,0.0289 mg/ml
+Salicylic acid,2.26,2.79,138.1207,C7H6O3,11.3 mg/ml
+Salsalate,3.44,3.4,258.2262,C14H10O5,0.246 mg/ml
+Temafloxacin,-0.2,5.6,417.3811,C21H18F3N3O3,0.0144 mg/ml
+Danazol,0.51,17.59,337.4553,C22H27NO2,0.0176 mg/ml
+Clenbuterol,2.94,14.06,277.19,C12H18Cl2N2O,0.112 mg/ml
+Bambuterol,1.69,13.91,367.44,C18H29N3O5,0.469 mg/ml
+Tiotropium,-0.55,10.35,392.512,C19H22NO4S2,0.0156 mg/ml
+Ciclesonide,4.08,14.78,540.697,C32H44O7,0.00157 mg/ml
+Pranlukast,4.82,6.86,481.512,C27H23N5O4,0.0032 mg/ml
+Theobromine,-0.78,9.28,180.164,C7H8N4O2,9.74 mg/ml
+Cefepime,-0.37,3.25,480.561,C19H24N6O5S2,0.0173 mg/ml
+Cefacetrile,-0.45,3.31,339.324,C13H13N3O6S,2.43 mg/ml
+Ceftibuten,0.31,2.99,410.425,C15H14N4O6S2,0.0705 mg/ml
+Cefpodoxime,0.05,3.22,427.455,C15H17N5O6S2,0.185 mg/ml
+Acenocoumarol,1.98,5.79,353.3255,C19H15NO6,0.0106 mg/ml
+Antrafenine,6.3,16.69,588.5435,C30H26F6N4O2,0.00284 mg/ml
+Testosterone Propionate,3.65,19.09,344.4877,C22H32O3,0.00502 mg/ml
+Paromomycin,-2.9,12.23,615.6285,C23H45N5O14,79.7 mg/ml
+Nitroxoline,1.99,6.88,190.1555,C9H6N2O3,2.73 mg/ml
+Stepronin,1.29,3.56,273.329,C10H11NO4S2,0.211 mg/ml
+Alizapride,1.79,8.86,315.3702,C16H21N5O2,0.495 mg/ml
+Ajmaline,1.81,13.28,326.4326,C20H26N2O2,4.09 mg/ml
+Amrinone,0.27,11.01,187.198,C10H9N3O,5.6 mg/ml
+Oxybenzone,3.79,8.07,228.2433,C14H12O3,0.128 mg/ml
+Almitrine,4.9,14.27,477.5522,C26H29F2N7,0.0144 mg/ml
+19-norandrostenedione,2.53,19.19,272.382,C18H24O2,0.0454 mg/ml
+Alfacalcidol,6.68,14.39,400.6371,C27H44O2,0.00163 mg/ml
+Glutethimide,1.9,11.69,217.2637,C13H15NO2,0.327 mg/ml
+Phenazopyridine,2.31,18.85,213.2385,C11H11N5,0.202 mg/ml
+Gamma Hydroxybutyric Acid,-0.6,4.44,103.0966,C4H7O3,711.0 mg/ml
+"5-Methoxy-N,N-diisopropyltryptamine",4.35,17.44,274.4011,C17H26N2O,0.0673 mg/ml
+Bufotenine,2.04,9.23,204.2682,C12H16N2O,3.2 mg/ml
+Alpha-methyltryptamine,2,17.14,174.2423,C11H14N2,1.15 mg/ml
+Dihydroetorphine,2.98,7.5,413.5497,C25H35NO4,0.114 mg/ml
+Beta-hydroxyfentanyl,2.96,14.11,352.4699,C22H28N2O2,0.114 mg/ml
+5-androstenedione,3.21,16.23,286.415,C19H26O2,0.0366 mg/ml
+Diethyltryptamine,3.64,17.16,216.322,C14H20N2,0.353 mg/ml
+Ethylmorphine,1.72,13.78,313.3908,C19H23NO3,0.835 mg/ml
+Acetorphine,3.59,14.68,453.579,C27H35NO5,0.0197 mg/ml
+Bolasterone,3.55,19.56,316.4776,C21H32O2,0.0112 mg/ml
+Haloxazolam,2.98,12.68,377.208,C17H14BrFN2O2,0.0308 mg/ml
+Codeine methylbromide,-1.9,13.78,394.303,C19H24BrNO3,0.000959 mg/ml
+Cyprenorphine,3.33,10.35,423.553,C26H33NO4,0.0582 mg/ml
+Delta1-dihydrotestosterone,3.38,19.38,288.4244,C19H28O2,0.0128 mg/ml
+Barbital,0.65,8.48,184.1925,C8H12N2O3,3.23 mg/ml
+Cathine,0.83,13.9,151.2056,C9H13NO,20.6 mg/ml
+Embutramide,2.98,15.63,293.4012,C17H27NO3,0.0417 mg/ml
+Dimethyltryptamine,2.41,17.16,188.2688,C12H16N2,1.69 mg/ml
+Aminorex,1.16,19.48,162.1885,C9H10N2O,0.792 mg/ml
+Dipipanone,5.28,18.77,349.509,C24H31NO,0.000757 mg/ml
+Barbituric acid derivative,3.19,3.41,368.33,C16H11F3N2O3S,0.0206 mg/ml
+Etorphine,2.79,7.48,411.5338,C25H33NO4,0.112 mg/ml
+Alphamethadol,4.21,14.52,311.4611,C21H29NO,0.0128 mg/ml
+Oxabolone,1.95,9.3,290.403,C18H26O3,0.0883 mg/ml
+Difenoxin,4.39,3.38,424.5341,C28H28N2O2,0.00208 mg/ml
+Etoxeridine,2,15.12,321.4113,C18H27NO4,1.37 mg/ml
+"5-Alpha-Androstane-3-Beta,17beta-Diol",3.56,18.3,292.4562,C19H32O2,0.0193 mg/ml
+Delorazepam,3.15,12.29,305.159,C15H10Cl2N2O,0.00642 mg/ml
+Hydromorphinol,0.53,7.44,303.3529,C17H21NO4,20.6 mg/ml
+Benzoylecgonine,1.71,3.15,289.3264,C16H19NO4,3.82 mg/ml
+Clostebol,3.57,19.31,322.869,C19H27ClO2,0.0153 mg/ml
+Androstenediol,3.42,18.2,290.4403,C19H30O2,0.055 mg/ml
+Ecgonine,-0.69,3.48,185.2203,C9H15NO3,1050.0 mg/ml
+4-Androstenediol,3.1,17.5,290.4403,C19H30O2,0.0481 mg/ml
+"5alpha-androstane-3alpha,17beta-diol",3.56,18.3,292.4562,C19H32O2,0.0193 mg/ml
+Desomorphine,2.5,10.35,271.36,C17H21NO2,0.86 mg/ml
+Chlorhexadol,2.34,9.67,265.562,C8H15Cl3O3,1.24 mg/ml
+4-Androstenedione,2.75,19.03,286.4085,C19H26O2,0.027 mg/ml
+17alpha-methyl-4-hydroxynandrolone,2.46,9.33,304.43,C19H28O3,0.0575 mg/ml
+Boldenone,3.08,18.86,286.4085,C19H26O2,0.0259 mg/ml
+Ethyl loflazepate,3.36,9.51,360.767,C18H14ClFN2O3,0.00525 mg/ml
+Alpha-ethyltryptamine,2.55,17.13,188.2688,C12H16N2,0.481 mg/ml
+Drotebanol,1.61,13.64,333.422,C19H27NO4,2.15 mg/ml
+Diprenorphine,3.52,10.42,425.569,C26H35NO4,0.104 mg/ml
+Dihydrocodeine,1.58,14.15,301.3801,C18H23NO3,2.38 mg/ml
+Cloxazolam,3.56,12.69,349.211,C17H14Cl2N2O2,0.0266 mg/ml
+Bromazepam,2.05,12.24,316.153,C14H10BrN3O,0.0399 mg/ml
+Cathinone,0.51,18.65,149.1897,C9H11NO,2.46 mg/ml
+Androstanedione,3.4,19.78,288.4244,C19H28O2,0.00739 mg/ml
+Chloral hydrate,0.99,9.51,165.403,C2H3Cl3O2,43.4 mg/ml
+Calusterone,3.55,19.56,316.4776,C21H32O2,0.0112 mg/ml
+Dihydromorphine,1.26,10.29,287.3535,C17H21NO3,1.82 mg/ml
+Codeine-N-oxide,-0.48,13.78,315.3636,C18H21NO4,0.138 mg/ml
+Formebolone,2.59,14.39,344.4446,C21H28O4,0.0605 mg/ml
+Ohmefentanyl,3.12,14.11,366.4965,C23H30N2O2,0.0865 mg/ml
+Benzylmorphine,2.71,13.78,375.4602,C24H25NO3,0.0456 mg/ml
+Metrizamide,-1.89,4.5,789.1,C18H22I3N3O8,0.0911 mg/ml
+Oxprenolol,2.1,14.09,265.348,C15H23NO3,0.68 mg/ml
+Sulfamerazine,0.14,6.99,264.304,C11H12N4O2S,0.304 mg/ml
+Sulfamethazine,0.89,6.99,278.33,C12H14N4O2S,0.23 mg/ml
+Ursodeoxycholic acid,3,4.6,392.572,C24H40O4,0.0197 mg/ml
+Ketazolam,2.6,14.2,368.814,C20H17ClN2O3,0.0839 mg/ml
+Quazepam,4.03,18.93,386.794,C17H11ClF4N2S,0.00231 mg/ml
+Everolimus,5.01,9.96,958.24,C53H83NO14,0.00163 mg/ml
+Cinolazepam,2.42,10.68,357.766,C18H13ClFN3O2,0.012 mg/ml
+Nitrazepam,2.25,11.9,281.2661,C15H11N3O3,0.0299 mg/ml
+Cilastatin,-0.29,2.53,358.453,C16H26N2O5S,0.1 mg/ml
+Imipenem,-0.19,3.63,299.346,C12H17N3O4S,0.776 mg/ml
+Probucol,8.92,10.29,516.842,C31H48O2S2,4.18e-05 mg/ml
+Tiaprofenic acid,3.22,4.03,260.308,C14H12O3S,0.0324 mg/ml
+Lopinavir,3.91,13.39,628.8008,C37H48N4O5,0.00192 mg/ml
+Bacampicillin,1.17,11.72,465.52,C21H27N3O7S,0.123 mg/ml
+Meticillin,1.22,2.96,380.415,C17H20N2O6S,0.31 mg/ml
+Pivampicillin,1.43,11.71,463.547,C22H29N3O6S,0.0354 mg/ml
+Pivmecillinam,3.23,13.66,439.569,C21H33N3O5S,0.0526 mg/ml
+Tazobactam,-1.8,2.86,300.291,C10H12N4O5S,9.59 mg/ml
+Ticarcillin,0.99,3.09,384.427,C15H16N2O6S2,0.0716 mg/ml
+Propericiazine,3.52,15.18,365.492,C21H23N3OS,0.059 mg/ml
+Deferasirox,3.52,4.55,373.3615,C21H15N3O4,0.0343 mg/ml
+Valganciclovir,-0.81,8.1,354.3617,C14H22N6O5,4.79 mg/ml
+Hydroxychloroquine,3.87,15.59,335.872,C18H26ClN3O,0.0261 mg/ml
+Acepromazine,4.32,16.06,326.456,C19H22N2OS,0.0098 mg/ml
+Aceprometazine,4.35,16.06,326.456,C19H22N2OS,0.0122 mg/ml
+Molindone,2.09,15.34,276.374,C16H24N2O2,0.474 mg/ml
+Phenindamine,4.04,18.01,261.3609,C19H19N,0.0277 mg/ml
+Pipotiazine,3.94,17.09,475.667,C24H33N3O3S2,0.0127 mg/ml
+Zuclopenthixol,4.46,15.59,400.965,C22H25ClN2OS,0.0026 mg/ml
+Isopropamide,2.27,16.31,353.5209,C23H33N2O,4.24e-05 mg/ml
+Lincomycin,0.56,3.24,406.54,C18H34N2O6S,3.02 mg/ml
+Etoricoxib,3.7,19.69,358.842,C18H15ClN2O2S,0.00328 mg/ml
+5-Fluorouridine,-1.4,7.67,262.1918,C9H11FN2O6,60.7 mg/ml
+SC-74020,3.78,8.71,574.732,C29H42N4O6S,0.0101 mg/ml
+Alpha-Phosphoribosylpyrophosphoric Acid,-0.74,1.09,390.0696,C5H13O14P3,11.6 mg/ml
+Deoxy-2-Fluoro-B-D-Cellotrioside,-2.2,10.98,505.4202,C18H30FO15,360.0 mg/ml
+2-Oxy-4-Hydroxy-5-(2-Hydrazinopyridine)Phenylalanine,-1.3,1.63,304.3012,C14H16N4O4,1.12 mg/ml
+"2,2-Dimethylthiazolidine-4-Carboxylic Acid;(Dmt)Thiazolidine",-1.3,2.97,161.222,C6H11NO2S,31.9 mg/ml
+"3,7,11,15-Tetramethyl-Hexadecan-1-Ol",8.18,17.11,298.5469,C20H42O,2.31e-05 mg/ml
+Sorbitol,-2.2,12.59,182.1718,C6H14O6,229.0 mg/ml
+N-Methyl-Pyridoxal-5&#39,"<img src=""https://www.drugbank.ca/structures/DB01639/thumb.svg""></img>",-2.1,1.59,262.1764,C9H13NO6P
+"(5r)-6-(4-{[2-(3-Iodobenzyl)-3-Oxocyclohex-1-En-1-Yl]Amino}Phenyl)-5-Methyl-4,5-Dihydropyridazin-3(2h)-One",4.78,11.79,513.3707,C24H24IN3O2,0.00239 mg/ml
+"(5z)-2-[(1s,2r)-1-Amino-2-Hydroxypropyl]-5-[(4-Amino-1h-Indol-3-Yl)Methylene]-3-(2-Hydroxyethyl)-3,5-Dihydro-4h-Imidazol-4-One",-0.62,3.76,357.3639,C17H19N5O4,0.211 mg/ml
+O1-Methyl-Glucose,-2.5,12.21,194.1825,C7H14O6,862.0 mg/ml
+Thymidine-5&#39,"<img src=""https://www.drugbank.ca/structures/DB01643/thumb.svg""></img>",-1.4,1.23,322.2085,C10H15N2O8P
+"3,6-Dihydroxy-Xanthene-9-Propionic Acid",2.58,3.6,286.2794,C16H14O5,0.0589 mg/ml
+Genistein,3.04,6.55,270.2369,C15H10O5,0.123 mg/ml
+N-Acetylmethionine,-0.15,4.02,191.248,C7H13NO3S,6.84 mg/ml
+(R)-Mesopram,2.28,12.73,265.305,C14H19NO4,0.313 mg/ml
+O1-Methyl-4-Deoxy-4-Thio-Beta-D-Glucose,-0.79,9.5,210.248,C7H14O5S,40.6 mg/ml
+7-Methyl-Gpppa,-0.18,0.9,787.441,C21H30N10O17P3,2.89 mg/ml
+trans-2-hydroxycinnamic acid,1.9,4.04,164.158,C9H8O3,1.15 mg/ml
+"Methyl 4,6-O-[(1r)-1-Carboxyethylidene]-Beta-D-Galactopyranoside",-1.1,2.96,264.2292,C10H16O8,264.0 mg/ml
+4-Hydroxybenzoyl Coenzyme A,0.01,0.83,887.64,C28H40N7O18P3S,3.28 mg/ml
+(5z)-5-(1h-Indol-3-Ylmethylene)-4h-Imidazol-4-One,0.21,14.65,328.3657,C17H20N4O3,0.191 mg/ml
+Thiorphan,1.78,4.02,253.317,C12H15NO3S,0.445 mg/ml
+L-Guluronic Acid 6-Phosphate,-2.3,1.49,276.1352,C6H13O10P,20.7 mg/ml
+Roflumilast,4.47,8.18,403.207,C17H14Cl2F2N2O3,0.0062 mg/ml
+"2-Amino-3-[4-Hydroxy-6-Oxo-3-(2-Phenyl-Cyclopropylimino)-Cyclohexa-1,4-Dienyl]-Propionic Acid",-1,1.88,328.3624,C18H20N2O4,0.166 mg/ml
+1&#39,"<img src=""https://www.drugbank.ca/structures/DB01658/thumb.svg""></img>",-0.88,1.78,423.318,C13H19N3O7P2S
+"3-(1,10-Phenanthrol-2-Yl)-L-Alanine",-0.73,2.14,267.2826,C15H13N3O2,0.121 mg/ml
+Adenosine-5&#39,"<img src=""https://www.drugbank.ca/structures/DB01660/thumb.svg""></img>",-0.5,1.03,523.247,C10H16N5O12P3S
+Phosphoribosyl Atp,-0.59,0.66,713.2279,C15H19N5O20P4,17.9 mg/ml
+Trans-O-Hydroxy-Alpha-Methyl Cinnamate,1.65,4.28,180.2005,C10H12O3,1.97 mg/ml
+(S)-Des-Me-Ampa,-2.8,1.77,172.1387,C6H8N2O4,48.9 mg/ml
+ZK-800270,-0.19,14.86,133.1506,C7H7N3,1.95 mg/ml
+D-Myo-Inositol-Hexasulphate,-1.3,-3.5,660.535,C6H12O24S6,0.394 mg/ml
+8-azaguanine,-0.71,7.89,152.1142,C4H4N6O,5.66 mg/ml
+Nanaomycin D,1.98,9.41,300.2629,C16H12O6,1.95 mg/ml
+Virginiamycin M1,2.6,11.38,525.5934,C28H35N3O7,0.0601 mg/ml
+"2,3-Dihydroxy-Benzoic Acid",1.2,2.56,154.1201,C7H6O4,6.88 mg/ml
+Uridine-5&#39,"<img src=""https://www.drugbank.ca/structures/DB01673/thumb.svg""></img>",-1.4,1.73,750.4943,C23H36N4O20P2
+Methacrylyl-Coenzyme A,-0.38,0.83,835.608,C25H40N7O17P3S,4.11 mg/ml
+Trinitrotoluene,1.6,16.99,227.1311,C7H5N3O6,0.0778 mg/ml
+Fumarate,0.46,3.55,114.0563,C4H2O4,206.0 mg/ml
+RU84687,2.34,1.75,607.5907,C31H34N3O8P,0.000744 mg/ml
+Propyl Trihydrogen Diphosphate,-0.07,1.78,220.0548,C3H10O7P2,11.9 mg/ml
+Benzene Hexacarboxylic Acid,1.5,0.77,342.1688,C12H6O12,0.204 mg/ml
+6&#39,"<img src=""https://www.drugbank.ca/structures/DB01682/thumb.svg""></img>",-1,1.78,438.333,C13H20N4O7P2S
+Chymostatin,1.03,3.71,607.7005,C31H41N7O6,0.0182 mg/ml
+1-Hydroxy-1-Thio-Glycerol,-1.8,13.63,124.159,C3H8O3S,607.0 mg/ml
+"4-[5-Pyridin-4-Yl-1h-[1,2,4]Triazol-3-Yl]-Pyridine-2-Carbonitrile",1.47,11.06,248.2428,C13H8N6,0.0779 mg/ml
+"N,N-dimethylarginine",-3.1,2.54,202.2541,C8H18N4O2,6.77 mg/ml
+beta-Mannobiose,-3,11.25,342.2965,C12H22O11,586.0 mg/ml
+P-Cresol,1.94,10.36,108.1378,C7H8O,23.1 mg/ml
+Inhibitor Idd 384,1.04,3.12,390.453,C19H22N2O5S,0.0134 mg/ml
+Bis(Adenosine)-5&#39,"<img src=""https://www.drugbank.ca/structures/DB01690/thumb.svg""></img>",-1.3,0.91,756.4071,C20H27N10O16P3
+Indole Naphthyridinone,2.57,12.03,374.4357,C22H22N4O2,0.0196 mg/ml
+Dithioerythritol,0.18,9.62,154.251,C4H10O2S2,5.14 mg/ml
+Ribavirin,-1.85,11.88,244.2047,C8H12N4O5,33.2 mg/ml
+D-tartaric acid,-1.3,2.72,150.0868,C4H6O6,161.0 mg/ml
+N-Hydroxy-4-Phosphono-Butanamide,-1.1,1.81,181.0838,C4H8NO5P,46.4 mg/ml
+Uric Acid,-2.17,7.61,168.1103,C5H4N4O3,1.76 mg/ml
+beta-cellotriose,-2.7,11.22,504.4371,C18H32O16,554.0 mg/ml
+Rutin,0.15,6.43,610.5175,C27H30O16,3.54 mg/ml
+(4e)-4-Aminohex-4-Enoic Acid,0.41,4.6,129.157,C6H11NO2,52.4 mg/ml
+Aicar,-2.2,1.22,338.2112,C9H15N4O8P,2.79 mg/ml
+"2-(3,4-Dihydroxyphenyl)Acetic Acid",0.98,3.61,168.1467,C8H8O4,7.23 mg/ml
+"2,4-Dihydroxy-Trans Cinnamic Acid",1.49,3.64,180.1574,C9H8O4,1.59 mg/ml
+"L-Alfa-Lysophosphatidylcholine, Lauroyl",0.1,1.86,440.5317,C20H43NO7P,0.00134 mg/ml
+Prasterone,3.23,18.2,288.4244,C19H28O2,0.0438 mg/ml
+2-Phosphoglyceric Acid,-2.2,0.81,186.0572,C3H7O7P,20.3 mg/ml
+"2,3,4,5,6-Pentafluorobenzyl Alcohol",1.52,13.68,198.0901,C7H3F5O,0.481 mg/ml
+"(3r)-4-(P-Toluenesulfonyl)-1,4-Thiazane-3-Carboxylicacid-L-Phenylalanine Ethyl Ester",2.59,11.85,476.609,C23H28N2O5S2,0.00348 mg/ml
+Udp-Alpha-D-Xylopyranose,-1.3,1.73,536.2758,C14H22N2O16P2,13.6 mg/ml
+N-Methyl-Lysine,-2.4,2.8,160.2141,C7H16N2O2,51.5 mg/ml
+"7,8-Diamino-Nonanoic Acid",-2.1,4.73,188.2673,C9H20N2O2,4.94 mg/ml
+2-Propenyl-N-Acetyl-Neuramic Acid,-1.8,3.68,333.3343,C14H23NO8,76.8 mg/ml
+Bis(Adenosine)-5&#39,"<img src=""https://www.drugbank.ca/structures/DB01717/thumb.svg""></img>",-0.2,0.42,916.3669,C20H29N10O22P5
+Thio-Maltopentaose,-2.5,8.64,876.915,C30H52O23S3,95.9 mg/ml
+(2z)-2-(Benzoylamino)-3-[4-(2-Bromophenoxy)Phenyl]-2-Propenoic Acid,4.72,3.24,438.271,C22H16BrNO4,0.000356 mg/ml
+Analogue of Indinavir Drug,4.37,13.21,670.8375,C39H50N4O6,0.0233 mg/ml
+"{3-[3-(3,4-Dimethoxy-Phenyl)-1-(1-{1-[2-(3,4,5-Trimethoxy-Phenyl)-Butyryl]-Piperidin-2yl}-Vinyloxy)-Propyl]-Phenoxy}-Acetic Acid",5.32,3.44,693.7799,C38H47NO11,0.00094 mg/ml
+Reduced Threonine,-1.4,14.64,105.1356,C4H11NO2,805.0 mg/ml
+2-Aminophenol,0.62,10.35,109.1259,C6H7NO,116.0 mg/ml
+Isocitric Acid,-0.35,3.07,192.1235,C6H8O7,52.5 mg/ml
+"3-[Aminoethylphosphoryl]-[1,2-Di-Palmitoyl]-Sn-Glycerol",8.08,1.87,691.9591,C37H74NO8P,9.45e-05 mg/ml
+"(1s,3s,4s)-1,3,4-Triphospho-Myo-Inositol",-0.86,0.54,420.0956,C6H15O15P3,14.8 mg/ml
+Penciclovir,-1.1,8.01,253.2578,C10H15N5O3,7.45 mg/ml
+(S)-Wiskostatin,4.17,14.43,426.146,C17H18Br2N2O,0.0162 mg/ml
+"(4r,5s,6s,7r)-1,3-Dibenzyl-4,7-Bis(Phenoxymethyl)-5,6-Dihydroxy-1,3 Diazepan-2-One",4.05,13.16,538.6335,C33H34N2O5,0.0305 mg/ml
+L-Phospholactate,-1.6,1.13,170.0578,C3H7O6P,21.0 mg/ml
+3-(Oxalyl-Amino)-Naphthalene-2-Carboxylic Acid,1.21,2.48,259.2143,C13H9NO5,0.0778 mg/ml
+3-Chloroalaninate,-1.6,1.7,123.538,C3H6ClNO2,16.6 mg/ml
+[3-(Dodecanoylamino)Propyl](Hydroxy)Dimethylammonium,2.24,15.85,300.4799,C17H36N2O2,0.0019 mg/ml
+"Nalpha-(2-Naphthylsulfonylglycyl)-3-Amidino-D,L-Phenylalanine-Isopropylester",0.43,10.32,432.493,C20H24N4O5S,0.0392 mg/ml
+O-Phosphoethanolamine,-1.3,1.77,155.0896,C3H10NO4P,25.5 mg/ml
+Allo-Isoleucine,-1.7,2.79,131.1729,C6H13NO2,114.0 mg/ml
+CRA_17693,1.43,4.39,460.414,C24H17FN4O5,0.00623 mg/ml
+Pyoverdine-Chromophore,-1.7,3.6,1336.3641,C55H85N17O22,1.62 mg/ml
+N-Alpha-(2-Naphthylsulfonyl)-N(3-Amidino-L-Phenylalaninyl)Isopipecolinic Acid Methyl Ester,2.25,10.02,522.616,C27H30N4O5S,0.0097 mg/ml
+D-Leucine,-1.8,2.79,131.1729,C6H13NO2,69.8 mg/ml
+N-Benzyl-4-Sulfamoyl-Benzamide,1.27,9.95,290.338,C14H14N2O3S,0.0451 mg/ml
+Naphthalen-1-Yl-Acetic Acid,2.24,4.75,186.2066,C12H10O2,0.11 mg/ml
+"3,3&#39;,5,5&#39;-Tetraiodothyroacetic Acid",4.99,2.25,747.8288,C14H8I4O4,0.00489 mg/ml
+S-Adenosyl-L-Homocysteine,-2.4,1.81,384.411,C14H20N6O5S,4.08 mg/ml
+"3,4-Dihydroxy-1-Methylquinolin-2(1h)-One",0.03,6.09,191.1834,C10H9NO3,13.6 mg/ml
+N-[Isoleucinyl]-N&#39,"<img src=""https://www.drugbank.ca/structures/DB01755/thumb.svg""></img>",-0.81,3.78,458.493,C16H26N8O6S
+D-4-Phosphoerythronic Acid,-2.3,1.47,216.0832,C4H9O8P,19.6 mg/ml
+3-Iodo-Tyrosine,-1.5,0.99,307.0851,C9H10INO3,0.937 mg/ml
+5-Hydroxy-2-(Hydroxymethyl)-4h-Pyran-4-One,-0.64,9.3,142.1094,C6H6O4,92.3 mg/ml
+4-[5-[2-(1-Phenyl-Ethylamino)-Pyrimidin-4-Yl]-1-Methyl-4-(3-Trifluoromethylphenyl)-1h-Imidazol-2-Yl]-Piperidine,5.43,14.11,506.5653,C28H29F3N6,0.00438 mg/ml
+Acetoacetic Acid,-0.47,4.02,102.0886,C4H6O3,240.0 mg/ml
+7-thionicotinamide-adenine-dinucleotide phosphate,-0.95,0.66,759.471,C21H28N7O16P3S,7.49 mg/ml
+Dalfopristin,2.57,11.38,690.847,C34H50N4O9S,0.0716 mg/ml
+"(5-Oxo-5,6-Dihydro-Indolo[1,2-a]Quinazolin-7-Yl)-Acetic Acid",2.3,4.22,292.2888,C17H12N2O3,0.13 mg/ml
+Beta-(2-Naphthyl)-Alanine,-0.41,2.61,215.2478,C13H13NO2,0.201 mg/ml
+Hemi-Babim,1.86,11.47,290.3226,C16H14N6,0.0274 mg/ml
+Methylumbelliferyl Sialic Acid,-0.91,2.81,467.4233,C21H25NO11,3.88 mg/ml
+3-Sulfinoalanine,-2.1,-0.78,153.157,C3H7NO4S,30.2 mg/ml
+CRA_10991,1.81,9.49,369.845,C20H20ClN3O2,0.000264 mg/ml
+"3-[3-(2,3-Dihydroxy-Propylamino)-Phenyl]-4-(5-Fluoro-1-Methyl-1h-Indol-3-Yl)-Pyrrole-2,5-Dione",2.16,9.47,409.4103,C22H20FN3O4,0.0455 mg/ml
+4-[3-Carboxymethyl-3-(4-Phosphonooxy-Benzyl)-Ureido]-4-[(3-Cyclohexyl-Propyl)-Methyl-Carbamoyl]Butyric Acid,1.86,1.78,571.5571,C25H38N3O10P,0.00321 mg/ml
+Adenosine-5&#39,"<img src=""https://www.drugbank.ca/structures/DB01774/thumb.svg""></img>",-1.8,1.73,589.3417,C16H25N5O15P2
+Dihydroxyacetone,-1.6,13.49,90.0779,C3H6O3,838.0 mg/ml
+M-Cresol,1.96,10.13,108.1378,C7H8O,25.1 mg/ml
+Coa-S-Trimethylene-Acetyl-Tryptamine,0.52,0.83,1008.842,C36H53N9O17P3S,2.1 mg/ml
+Glycerol-2-Phosphate,-1.8,1.13,172.0737,C3H9O6P,30.7 mg/ml
+Fusicoccin,2.42,12.24,680.8226,C36H56O12,0.0849 mg/ml
+"2,6-Dihydroanthra/1,9-Cd/Pyrazol-6-One",2.76,12.77,220.2261,C14H8N2O,0.186 mg/ml
+Pantothenic acid,-1.1,4.35,219.235,C9H17NO5,60.5 mg/ml
+4-Flourobenzenesulfonamide,0.62,9.81,175.181,C6H6FNO2S,2.16 mg/ml
+Dimethylallyl Diphosphate,0.3,1.77,246.0921,C5H12O7P2,6.54 mg/ml
+D-Alanine,-3,2.47,89.0932,C3H7NO2,447.0 mg/ml
+"1-Amino-2,3-Dihydroxy-5-Hydroxymethyl Cyclohex-5-Ene",-1.9,13.43,159.183,C7H13NO3,293.0 mg/ml
+"Sp-Adenosine-3&#39;,5&#39;-Cyclic-Monophosphorothioate",-0.93,1.89,345.272,C10H12N5O5PS,1.84 mg/ml
+Piclamilast,4.65,8.25,381.253,C18H18Cl2N2O3,0.0061 mg/ml
+Adenylyl-3&#39,-Monophosphate,https://www.drugbank.ca/drugs/DB01792,"<img src=""https://www.drugbank.ca/structures/DB01792/thumb.svg""></img>",-1.8,0.83
+I-5,3.43,3.73,377.178,C17H10Cl2N2O4,0.00214 mg/ml
+Quinolinic Acid,0.15,0.29,167.1189,C7H5NO4,4.07 mg/ml
+"(2r)-2-(Aminomethyl)-2,4-Dihydroxy-5-Oxo-3-(2-Oxoethyl)-2,5-Dihydro-1h-Imidazol-3-Ium",-0.41,1.77,204.1607,C6H10N3O5,12.0 mg/ml
+Ethyl Dihydrogen Diphosphate,-0.3,1.78,206.0282,C2H8O7P2,13.0 mg/ml
+4-Hydroxy-3-Methyl Butyl Diphosphate,-0.45,1.78,264.1074,C5H14O8P2,10.5 mg/ml
+"N,4-Dihydroxy-N-Oxo-3-(Sulfooxy)Benzenaminium",-0.63,-3,235.171,C6H5NO7S,1.14 mg/ml
+2-(Trimethylammonium)Ethyl Thiol,-3.1,9.7,120.236,C5H14NS,0.0511 mg/ml
+"2-Ammoniobut-3-Enoate, 2-Amino-3-Butenoate",-1.7,2.42,101.1039,C4H7NO2,7.71 mg/ml
+Monoisopropylphosphorylserine,-1.6,1.67,227.1522,C6H14NO6P,26.8 mg/ml
+"10-{4-Dimethylamino-5-[4-Hydroxy-6-Methyl-5-(6-Methyl-5-Oxo-Tetrahydro-Pyran-2-Yloxy)-Tetrahydro-Pyrane-2-Yloxy]-6-Methyl-Tetrahydro-Pyran-2-Yloxy}-8-Ethyl-1,8,11-Trihydroxy-7,8,9,10-Tetrahydro-Naphthacene-5,12-Dione",2.94,8.94,753.8318,C40H51NO13,0.134 mg/ml
+"N-[(3z)-5-Tert-Butyl-2-Phenyl-1,2-Dihydro-3h-Pyrazol-3-Ylidene]-N&#39;-(4-Chlorophenyl)Urea",4.34,7.15,368.86,C20H21ClN4O,0.0123 mg/ml
+"1-Ter-Butyl-3-P-Tolyl-1h-Pyrazolo[3,4-D]Pyrimidin-4-Ylamine",3.06,19.69,281.3556,C16H19N5,0.0953 mg/ml
+"[1-(1-Methyl-4,5-Dioxo-Pent-2-Enylcarbamoyl)-2-Phenyl-Ethyl]-Carbamic Acid Benzyl Ester",2.49,13.43,408.4471,C23H24N2O5,0.0017 mg/ml
+Adenosine-3&#39,https://www.drugbank.ca/drugs/DB01812,"<img src=""https://www.drugbank.ca/structures/DB01812/thumb.svg""></img>",-1.6,0.71,427.2011
+Pyridoxyl-Glutamic Acid-5&#39,"<img src=""https://www.drugbank.ca/structures/DB01813/thumb.svg""></img>",-1.1,0.98,379.2797,C13H20N2O9P
+2-Tridecanoyloxy-Pentadecanoic Acid,9.13,4.52,454.726,C28H54O4,2.97e-05 mg/ml
+Nz-(Dicarboxymethyl)Lysine,-3.1,0.082,248.2331,C9H16N2O6,6.37 mg/ml
+Castanospermine,-2.1,12.89,189.209,C8H15NO4,1110.0 mg/ml
+Threonine-Aspartic Ester,-4.2,1.62,236.2224,C8H16N2O6,28.1 mg/ml
+O3-Sulfonylgalactose,-2.1,-2,260.219,C6H12O9S,104.0 mg/ml
+Phosphoenolpyruvate,-1.2,0.76,168.042,C3H5O6P,13.2 mg/ml
+"Compound 12, N-Acetyl-4-[(Carboxycarbonyl)(2-Carboxyphenyl)Amino]-N-Pentyl-1-Napthylalaniamide",2.77,2.53,533.5723,C29H31N3O7,0.000812 mg/ml
+"L-N(Omega)-Nitroarginine-2,4-L-Diaminobutyric Amide",-1.9,10.15,318.3329,C10H22N8O4,0.256 mg/ml
+Dithiane Diol,-0.44,13.48,152.235,C4H8O2S2,70.5 mg/ml
+Beta-D-Glucopyranose Spirohydantoin,-2.3,9.09,248.1901,C8H12N2O7,230.0 mg/ml
+"(3s)-Tetrahydrofuran-3-Yl (1r,2s)-3-[4-((1r)-2-{[(S)-Amino(Hydroxy)Methyl]Oxy}-2,3-Dihydro-1h-Inden-1-Yl)-2-Benzyl-3-Oxopyrrolidin-2-Yl]-1-Benzyl-2-Hydroxypropylcarbamate",1.63,11.4,629.7425,C36H43N3O7,0.00753 mg/ml
+2-Amino-8-Methylquinazolin-4(3h)-One,0.73,10,175.1873,C9H9N3O,1.12 mg/ml
+N-Butyl Isocyanide,2.16,16.22,83.1317,C5H9N,0.5 mg/ml
+"2,3,5,6-Tetrafluoro-4-Methoxy-Benzamide",1.31,10.49,223.1244,C8H5F4NO2,0.309 mg/ml
+Desulfo-Coenzyme A,-0.63,0.83,735.4691,C21H36N7O16P3,4.61 mg/ml
+"{4-[2-Acetylamino-2-(3-Carbamoyl-2-Cyclohexylmethoxy-6,7,8,9-Tetrahydro-5h-Benzocyclohepten-5ylcarbamoyl)-Ethyl]-2-Phosphono-Phenyl}-Phosphonic Acid",1.25,1.27,665.6082,C30H41N3O10P2,0.0101 mg/ml
+Tryptophanyl-5&#39,"<img src=""https://www.drugbank.ca/structures/DB01831/thumb.svg""></img>",-0.62,0.77,533.4311,C21H24N7O8P
+4-[Hydroxy-[Methyl-Phosphinoyl]]-3-Oxo-Butanoic Acid,-1.9,1.85,180.0957,C5H9O5P,29.9 mg/ml
+L-2-Amino-4-(Guanidinooxy)Butyric Acid,-3.9,2.1,176.1738,C5H12N4O3,2.77 mg/ml
+"(9r,10r)-9-(S-Glutathionyl)-10-Hydroxy-9,10-Dihydrophenanthrene",-1.3,1.8,501.552,C24H27N3O7S,0.031 mg/ml
+4r-Fluoro-N6-Ethanimidoyl-L-Lysine,-3.2,2.54,205.2299,C8H16FN3O2,0.442 mg/ml
+O-acetyl-L-serine,-2.9,1.86,147.1293,C5H9NO4,174.0 mg/ml
+"6,4&#39;-Dihydroxy-3-Methyl-3&#39;,5&#39;-Dibromoflavone",4.9,6.01,426.056,C16H10Br2O4,0.0196 mg/ml
+"1,2-Propanediol",-0.92,14.47,76.0944,C3H8O2,952.0 mg/ml
+2-Deoxy-D-Glucitol 6-(E)-Vinylhomophosphonate,-1.9,3.54,242.1636,C7H15O7P,21.0 mg/ml
+"4,6-Dideoxyglucose",-1.8,11.33,148.1571,C6H12O4,904.0 mg/ml
+3&#39,https://www.drugbank.ca/drugs/DB01842,"<img src=""https://www.drugbank.ca/structures/DB01842/thumb.svg""></img>",-1.1,0.82,507.181
+"3-Amino-8,9,10-Trihydroxy-7-Hydroxymethyl-6-Oxa-1,3-Diaza-Spiro[4.5]Decane-2,4-Dione",-2.2,9.63,263.2047,C8H13N3O7,212.0 mg/ml
+Oxidized Coenzyme A,-0.87,0.83,783.534,C21H36N7O17P3S,4.91 mg/ml
+N-Carbamyl-D-Valine,-0.63,4.02,160.1711,C6H12N2O3,21.4 mg/ml
+"3,4-Dihydrouracil",-1.3,11.73,114.1026,C4H6N2O2,25.9 mg/ml
+"(2s,3s,8s,9s)-3-Amino-9-Methoxy-2,6,8-Trimethyl-10-Phenyldeca-4,6-Dienoic Acid",0.71,4.01,331.4492,C20H29NO3,0.00813 mg/ml
+Kaempherol,1.99,6.44,286.2363,C15H10O6,0.178 mg/ml
+5-Bromonicotinamide,0.08,13.07,201.021,C6H5BrN2O,16.7 mg/ml
+5-(Hydroxy-Methyl-Amino)-3-Methyl-Pyrrolidine-2-Carboxylic Acid,-2.5,3.11,174.1977,C7H14N2O3,170.0 mg/ml
+Pimelic Acid,0.61,4.05,160.1678,C7H12O4,13.3 mg/ml
+Phosphoaspartate,-1.9,1.08,213.0826,C4H8NO7P,13.2 mg/ml
+[1-(4-Fluorobenzyl)Cyclobutyl]Methyl (1s)-1-[Oxo(1h-Pyrazol-5-Ylamino)Acetyl]Pentylcarbamate,2.92,11.9,444.4992,C23H29FN4O4,0.00446 mg/ml
+4-Diphosphocytidyl-2-C-Methyl-D-Erythritol 2-Phosphate,-0.88,1.07,601.2874,C14H26N3O17P3,15.1 mg/ml
+Cordycepin Triphosphate,-0.68,0.9,491.1816,C10H16N5O12P3,3.83 mg/ml
+Uridine diphosphate glucose,-1.4,1.73,566.3018,C15H24N2O17P2,15.0 mg/ml
+Isopropyl beta-D-thiogalactopyranoside,-1.26,12.48,238.301,C9H18O5S,128.0 mg/ml
+"Inositol 1,3,4,5-Tetrakisphosphate",-0.45,0.33,500.0755,C6H16O18P4,11.5 mg/ml
+5&#39,"<img src=""https://www.drugbank.ca/structures/DB01864/thumb.svg""></img>",-0.24,0.91,539.246,C10H16N5O13P3S
+RU79256,-0.26,-1.3,216.211,C8H8O5S,2.41 mg/ml
+Glycyl-L-a-Aminopimelyl-E-(D-2-Aminoethyl)Phosphonate,-1.3,1.87,322.2747,C11H21N3O6P,3.71 mg/ml
+L-Rhamnose,-2,11.84,164.1565,C6H12O5,258.0 mg/ml
+"1,4-Dithio-Alpha-D-Mannose",-0.41,8.59,212.287,C6H12O4S2,8.09 mg/ml
+[1-(1-Benzyl-3-Hydroxy-2-Oxo-Propylcarbamoyl)-2-Phenyl-Ethyl]-Carbamic Acid Benzyl Ester,2.72,12.54,460.5216,C27H28N2O5,0.00155 mg/ml
+Acetylgalactosamine-4-Sulfate,-2,-1.9,301.271,C8H15NO9S,42.9 mg/ml
+Epothilone D,4.54,14.09,491.683,C27H41NO5S,0.00246 mg/ml
+Tropinone,0.44,18.02,139.1949,C8H13NO,541.0 mg/ml
+"N-Hydroxy 1n(4-Methoxyphenyl)Sulfonyl-4-(Z,E-N-Methoxyimino)Pyrrolidine-2r-Carboxamide",-0.31,8.71,345.371,C13H19N3O6S,2.32 mg/ml
+(S)-2-{Methyl-[2-(Naphthalene-2-Sulfonylamino)-5-(Naphthalene-2-Sulfonyloxy)-Benzoyl]-Amino}-Succinicacid,3.6,2.38,662.686,C32H26N2O10S2,0.000444 mg/ml
+"3,4-Dihydroxycinnamic Acid",1.15,3.64,180.1574,C9H8O4,1.61 mg/ml
+"2-Methylpentane-1,2,4-Triol",-0.94,13.98,134.1736,C6H14O3,440.0 mg/ml
+"(2s)-2-Amino-4-(Methylsulfanyl)-1-Pyridin-2-Ylbutane-1,1-Diol",-0.1,10.24,228.311,C10H16N2O2S,9.28 mg/ml
+N-(Sulfanylacetyl)Tyrosylprolylmethioninamide,1.31,9.17,482.617,C21H30N4O5S2,0.0197 mg/ml
+D-Galctopyranosyl-1-On,-2.2,11.62,178.14,C6H10O6,586.0 mg/ml
+Inhibitor BEA369,0.72,12.16,620.6894,C34H40N2O9,0.148 mg/ml
+"4-[5-(Trans-4-Aminocyclohexylamino)-3-Isopropylpyrazolo[1,5-a]Pyrimidin-7-Ylamino]-N,N-Dimethylbenzenesulfonamide",3.03,17.55,471.619,C23H33N7O2S,0.00934 mg/ml
+"16,17-Androstene-3-Ol",5.13,18.3,274.4409,C19H30O,0.000355 mg/ml
+"N,N-bis(3-(D-gluconamido)propyl)deoxycholamide",0.25,5.13,862.056,C42H75N3O15,0.0736 mg/ml
+Tl-3-093,1.87,12.46,455.5466,C25H33N3O5,0.00941 mg/ml
+Hyperforin,6.32,6.32,536.785,C35H52O4,0.000632 mg/ml
+N6-Benzyl Adenosine-5&#39,"<img src=""https://www.drugbank.ca/structures/DB01893/thumb.svg""></img>",-0.15,1.77,517.3237,C17H21N5O10P2
+N-acetyl-alpha-neuraminic acid,-2.8,3,309.2699,C11H19NO9,227.0 mg/ml
+Aspartyl-Adenosine-5&#39,"<img src=""https://www.drugbank.ca/structures/DB01895/thumb.svg""></img>",-2.3,0.77,462.3086,C14H19N6O10P
+2-(2f-Benzothiazolyl)-5-Styryl-3-(4f-Phthalhydrazidyl)Tetrazolium Chloride,1.76,10.01,466.495,C24H16N7O2S,0.00281 mg/ml
+"(2S,3S)-2-azanyl-3-methyl-pentanedioic acid",-3.3,2.02,161.1558,C6H11NO4,38.1 mg/ml
+Nd1-Phosphonohistidine,-1.7,0.56,236.1424,C6H11N3O5P,1.79 mg/ml
+Sucrosofate,-1.9,-3.4,982.802,C12H22O35S8,1.45 mg/ml
+5-Bromo-2&#39,https://www.drugbank.ca/drugs/DB01903,"<img src=""https://www.drugbank.ca/structures/DB01903/thumb.svg""></img>",-0.9,1.23,387.078
+D-Xylitol,-2.5,12.76,152.1458,C5H12O5,664.0 mg/ml
+2-(2-Hydroxy-5-Methoxy-Phenyl)-1h-Benzoimidazole-5-Carboxamidine,0.69,9.08,283.3052,C15H15N4O2,0.0802 mg/ml
+"3-(5-Amino-7-Hydroxy-[1,2,3]Triazolo[4,5-D]Pyrimidin-2-Yl)-Benzoic Acid",0.02,3.9,272.2196,C11H8N6O3,2.83 mg/ml
+NADH,-5.1,-7,665.441,C21H29N7O14P2,2.95 mg/ml
+RU85493,2.01,1.61,637.6167,C32H36N3O9P,0.00116 mg/ml
+Alpha-Cyclodextrin (Cyclohexa-Amylose),-2.4,11.56,972.8436,C36H60O30,792.0 mg/ml
+Sinefungin,-3,1.95,381.387,C15H23N7O5,4.63 mg/ml
+N-Methylmesoporphyrin,4.96,3.71,580.7165,C35H40N4O4,0.0383 mg/ml
+D-glucose,-2.4,11.8,180.1559,C6H12O6,261.0 mg/ml
+S-Hydroxycysteine,-3.1,1.87,137.158,C3H7NO3S,342.0 mg/ml
+Pentanal,1.41,15.59,86.1323,C5H10O,14.8 mg/ml
+1-O-[O-Nitrophenyl]-Beta-D-Galactopyranose,-0.58,12.2,301.2494,C12H15NO8,20.6 mg/ml
+Xylose-Derived Lactam Oxime,-2.4,9.74,162.1439,C5H10N2O4,76.7 mg/ml
+"Maltosyl-Alpha (1,4)-D-Gluconhydroximo-1,5-Lactam",-3,9.33,516.4511,C18H32N2O15,194.0 mg/ml
+L-Xylulose 5-Phosphate,-1.8,1.49,216.1263,C5H13O7P,32.6 mg/ml
+Benzhydroxamic Acid,0.26,9.65,137.136,C7H7NO2,4.57 mg/ml
+"2&#39;-Chloro-Biphenyl-2,3-Diol",3.23,9.03,220.652,C12H9ClO2,0.105 mg/ml
+Huperzine A,1.78,11.11,242.3162,C15H18N2O,0.166 mg/ml
+"5-Chloryl-2,4,6-Quinazolinetriamine",-0.3,17.16,241.634,C8H8ClN5O2,1.37 mg/ml
+"2,4-Dihydroxy-3,3-Dimethyl-Butyrate",-0.34,3.96,147.1491,C6H11O4,473.0 mg/ml
+"Dcka, 5,7-Dichlorokynurenic Acid",3.63,3.82,258.058,C10H5Cl2NO3,0.156 mg/ml
+7-Hydroxystaurosporine,2.78,7.42,482.5304,C28H26N4O4,0.0592 mg/ml
+"N-Methyl-N-(10-Methylundecanoyl)-D-Seryl-L-Alanyl-N~1~-[(7s,10s,13s)-13-Carboxy-3,18-Dihydroxy-10-Methyl-8,11-Dioxo-9,12-Diazatricyclo[13.3.1.1~2,6~]Icosa-1(19),2(20),3,5,15,17-Hexaen-7-Yl]-N~1~-Methylglycinamide",2.92,3.54,824.9594,C42H60N6O11,0.00815 mg/ml
+3-{[(1r)-1-Benzyl-2-Sulfanylethyl]Amino}-3-Oxopropanoic Acid,1.75,4.11,253.317,C12H15NO3S,0.412 mg/ml
+Ribose,-2.32,11.31,150.1299,C5H10O5,1070.0 mg/ml
+Guanosine-2&#39,"<img src=""https://www.drugbank.ca/structures/DB01937/thumb.svg""></img>",-1.9,0.63,363.2206,C10H14N5O8P
+L-Histidine Beta Naphthylamide,1.1,12.75,280.3244,C16H16N4O,0.104 mg/ml
+5-Amidino-Benzimidazole,-0.58,11.77,161.1839,C8H9N4,1.86 mg/ml
+Balanol Analog 2,3.06,7.98,474.5051,C27H26N2O6,0.00395 mg/ml
+"6-[1-(3,5,5,8,8-Pentamethyl-5,6,7,8-Tetrahydronaphthalen-2-Yl)Cyclopropyl]Pyridine-3-Carboxylic Acid",6.15,3.93,363.4926,C24H29NO2,0.000302 mg/ml
+Formic Acid,-0.54,4.27,46.0254,CH2O2,477.0 mg/ml
+(S)-blebbistatin,2,11.54,292.3318,C18H16N2O2,0.198 mg/ml
+4-Carbamoyl-1-Beta-D-Ribofuranosyl-Imidazolium-5-Olate-5&#39,"<img src=""https://www.drugbank.ca/structures/DB01945/thumb.svg""></img>",-0.4,1.26,339.1959,C9H14N3O9P
+"3-[1-(3-Aminopropyl)-1h-Indol-3-Yl]-4-(1-Methyl-1h-Indol-3-Yl)-1h-Pyrrole-2,5-Dione",3.25,9.61,398.4571,C24H22N4O2,0.0318 mg/ml
+RU78262,0.04,1.75,202.1012,C7H7O5P,4.44 mg/ml
+"1-(2,6-Dichlorophenyl)-5-(2,4-Difluorophenyl)-7-Piperidin-4-Yl-3,4-Dihydroquinolin-2(1h)-One",5.52,19.58,487.368,C26H22Cl2F2N2O,0.000122 mg/ml
+"2-Amino-N,3,3-Trimethylbutanamide",0.04,16.28,144.2147,C7H16N2O,73.3 mg/ml
+"N-(4-Methoxybenzyl)-N&#39;-(5-Nitro-1,3-Thiazol-2-Yl)Urea",2.05,10.45,308.313,C12H12N4O4S,0.0119 mg/ml
+Inhibitor of P38 Kinase,3.9,17.28,222.2851,C15H14N2,0.00869 mg/ml
+Rolipram,3.16,3.83,275.348,C16H21NO3,0.0239 mg/ml
+"1,4-Butanediol",-0.83,15.67,90.121,C4H10O2,675.0 mg/ml
+2-Aminoethanesulfonic Acid,-2.2,-1.5,125.147,C2H7NO3S,105.0 mg/ml
+3-Chlorophenol,2.5,8.79,128.556,C6H5ClO,14.6 mg/ml
+"5-[4-Tert-Butylphenylsulfanyl]-2,4-Quinazolinediamine",4.47,16.67,324.443,C18H20N4S,0.00278 mg/ml
+7n-Methyl-8-Hydroguanosine-5&#39,"<img src=""https://www.drugbank.ca/structures/DB01960/thumb.svg""></img>",-1.7,1.77,459.243,C11H19N5O11P2
+Cytidine-3&#39,"<img src=""https://www.drugbank.ca/structures/DB01961/thumb.svg""></img>",-2,0.89,323.1965,C9H14N3O8P
+Phosphonotyrosine,-0.76,1.38,261.1684,C9H12NO6P,1.93 mg/ml
+AL5424,0.49,8.14,390.455,C13H14N2O6S3,0.519 mg/ml
+"2&#39;-Deoxyuridine 5&#39;-Alpha,Beta-Imido-Triphosphate",-0.36,0.58,467.1569,C9H16N3O13P3,8.34 mg/ml
+Di-Stearoyl-3-Sn-Phosphatidylethanolamine,8.91,1.87,748.0654,C41H82NO8P,5.43e-05 mg/ml
+"N-{3-[(7ar,12as,12bs)-7-Oxo-1,3,4,6,7,7a,12a,12b-Octahydroindolo[2,3-a]Quinolizin-12(2h)-Yl]Propyl}Propane-2-Sulfonamide",2.3,11.91,403.538,C21H29N3O3S,0.288 mg/ml
+2-Thioethenamine,0.26,9.69,75.133,C2H5NS,17.7 mg/ml
+Trifluoroacetonyl Coenzyme A,0.21,0.83,877.569,C24H37F3N7O17P3S,4.21 mg/ml
+"Hg9a-9, Nonanoyl-N-Hydroxyethylglucamide",0.31,12.65,365.4623,C17H35NO7,9.98 mg/ml
+trans-urocanic acid,0.22,3.85,138.124,C6H6N2O2,42.5 mg/ml
+Guanosine-5&#39,"<img src=""https://www.drugbank.ca/structures/DB01972/thumb.svg""></img>",-2,1.05,363.2206,C10H14N5O8P
+O-Benzylsulfonyl-Serine,-1.4,1.53,259.279,C10H13NO5S,2.3 mg/ml
+"2-Amino-3-[5-(Amino-Carboxy-Methyl)-2,3-Dihydro-Isoxazol-3-Ylsulfanyl]-Propionic Acid",-4.1,1.02,263.271,C8H13N3O5S,11.2 mg/ml
+AMPCPR,-2,0.81,557.3429,C16H25N5O13P2,4.24 mg/ml
+6-(N-Phenylcarbamyl)-2-Naphthalenecarboxamidine,2.46,12.14,289.3312,C18H15N3O,0.0129 mg/ml
+"7,9-Dimethylguanine",-2.6,9.82,180.1872,C7H10N5O,2.44 mg/ml
+Methyl alpha-D-mannoside,-2.5,12.21,194.1825,C7H14O6,862.0 mg/ml
+Para-Iodo-D-Phenylalanine Hydroxamic Acid,1.17,8.8,306.1003,C9H11IN2O2,0.256 mg/ml
+"3,6-Anhydro-D-Galactose-2-Sulfate",-2,-2.1,242.204,C6H10O8S,105.0 mg/ml
+D-Mannuronic Acid,-2.3,3.21,194.1394,C6H10O7,295.0 mg/ml
+4-[2-(3-Benzyloxycarbonylamino-4-Cyclohexyl-1-Hydroxy-2-Oxo-Butylamino)-5-Guanidino-Pentanoylamino]-4-(1-Carboxy-2-Cyclohexyl-Ethylcarbamoyl)-Butyric Acid,1.28,3.27,771.9001,C38H57N7O10,0.00735 mg/ml
+N-Alpha-L-Acetyl-Arginine,-1.7,3.68,216.2376,C8H16N4O3,0.767 mg/ml
+Thiamin Diphosphate,-1.2,1.78,424.306,C12H18N4O7P2S,0.372 mg/ml
+Carbobenzoxy-Pro-Lys-Phe-Y(Po2)-Ala-Pro-Ome,0.07,3.02,743.8066,C36H52N6O9P,0.00278 mg/ml
+Cholesterol-Sulfate,3.27,-1.4,466.717,C27H46O4S,7.48e-05 mg/ml
+Tu-514,3.77,8.9,431.5634,C22H41NO7,0.0349 mg/ml
+Coenzyme A,-0.61,0.83,767.534,C21H36N7O16P3S,4.64 mg/ml
+N-(5&#39,"<img src=""https://www.drugbank.ca/structures/DB01993/thumb.svg""></img>",-1.7,1.03,320.2356,C11H17N2O7P
+"2-(Pyrido[1,2-E]Purin-4-Yl)Amino-Ethanol",0.85,15.33,229.2379,C11H11N5O,0.199 mg/ml
+5-Methylcytidine-5&#39,"<img src=""https://www.drugbank.ca/structures/DB01995/thumb.svg""></img>",-1.8,1.24,337.2231,C10H16N3O8P
+"2-[3,4-Dihydroxy-2-Hydroxymethyl-5-(2-Hydroxy-Nonyl)-Tetrahydro-Furan-2-Yloxy]-6-Hydroxymethyl-Tetra Hydro-Pyran-3,4,5-Triol",-0.81,11.85,454.5091,C20H38O11,15.0 mg/ml
+"5,10,15,20-Tetrakis(4-Sulpfonatophenyl)-21h,23h-Porphine",4.67,14.35,939.01,C44H34N4O12S4,0.00723 mg/ml
