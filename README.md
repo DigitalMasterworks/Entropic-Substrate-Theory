@@ -44,6 +44,12 @@ Contains all referenced python scripts in the scalar field paper, required bat f
 
 ---
 
+## 5. `QED_Experiments/` — Mapping to Quantum Mechanics and QED
+
+Contains experiments mapping the theory to mass ratios of hadrons, leptons, the periodic table and molecules by deriving the mass ratio of the muon, as well as experiments involving deriving chemical bonds and a GHz test.
+
+---
+
 ## Additional Materials
 
 Reference notes, exploratory notebooks, and working results are provided for transparency. These are not part of the core, validated pipeline.
